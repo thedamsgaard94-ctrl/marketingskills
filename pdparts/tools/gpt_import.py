@@ -5,7 +5,7 @@ for f in glob.glob('wheels/page*.json'):
 rows=[];skip=[]
 for r in csv.DictReader(open(sys.argv[1],encoding='utf-8-sig'),delimiter=';'):
     if r['fundet']!='JA': continue
-    if r['valuta']!='PLN' or r['land'] not in('PL','LT'): skip.append((r['nr'],'valuta/land')); continue
+    if r['valuta'] not in('PLN','EUR') or r['land'] not in('PL','LT'): skip.append((r['nr'],'valuta/land')); continue
     mult=1
     if r['antal_faelge']!='4':
         # Ejer 22.11: enkeltfælge OK hvis 4 kan skaffes: webshop/forhandler med lager>=4 eller kan bestille (ikke markedsplads)
@@ -15,7 +15,7 @@ for r in csv.DictReader(open(sys.argv[1],encoding='utf-8-sig'),delimiter=';'):
         else: skip.append((r['nr'],r['antal_faelge'])); continue
     p=P[r['product_id']]; v=p['variants']['nodes']
     if len(v)!=1: skip.append((r['nr'],'varianter')); continue
-    cost=float(r['pris'])*mult/0.589*1.02+150+(400 if r['med_daek']=='JA' else 0)
+    cost=(float(r['pris'])*mult/0.589 if r['valuta']=='PLN' else float(r['pris'])*mult*7.4735)*1.02+150+(400 if r['med_daek']=='JA' else 0)
     raw=cost/0.45; pr=int(math.ceil((raw+1)/100)*100-1)
     if pr-100>=raw: pr-=100
     rows.append(dict(nr=r['nr'],product_id='gid://shopify/Product/'+r['product_id'],variant_id=v[0]['id'],titel=p['title'],pris_pln=r['pris'],kost=round(cost),ny_pris=pr,url=r['annonce_url']))
