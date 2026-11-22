@@ -94,23 +94,29 @@ for p in P:
     if srcstatus and re.search(r'blocked|reject|unavailable|sold|archiv',srcstatus,re.I): issues.append(f'Kildestatus: {srcstatus}')
     prop=None;prop_ex=None;diff=None
     if cost and cost>0:
-        prop_ex=round(cost*1.40,2); prop=math.ceil(cost*1.40*1.25); diff=round(prop-price,2)
+        raw=cost/0.45; prop=int(math.ceil((raw+1)/100.0)*100-1)
+        if prop-100>=raw: prop-=100
+        prop_ex=round(prop/1.25,2); diff=round(prop-price,2)
     capflag=''
     if cap:
         capflag='Under loft' if prop and prop<=cap else ('LOFT OVERSKREDET – kræver godkendelse' if prop else '')
         if price>cap: issues.append(f'Nuværende pris over VW-loft {cap}')
     ratio=round(price/cost,3) if cost else None
-    if ratio and ratio<1.75-0.01: issues.append('Nuværende pris under formel (kost×1,75)')
+    if ratio and ratio<(1/0.45)-0.02: issues.append('Nuværende pris under formel (kost/0,45)')
     if ratio and ratio<1: issues.append('NUVÆRENDE PRIS UNDER KOSTPRIS')
     # kontrolstatus
     if p['status']!='ACTIVE': ks='KONTROLLERET – ikke aktiv ('+p['status']+'); intet forslag til udgivelse'
     elif not cost or not url: ks='BLOKERET – mangler kost/kilde'
-    else: ks='FORESLÅET (betinget) – kan ikke godkendes før momsgrundlag og faktura er dokumenteret'
+    else:
+        if diff is not None and abs(diff)<=100: ks='KONTROLLERET – pris følger reglen'
+        elif cap and prop>cap: ks='FORESLÅET – over VW-loft, kræver din beslutning'
+        elif stand in('Brugt','Demo') and 'markedsplads' in moms: ks='FORESLÅET – tjek brugtmoms før udgivelse'
+        else: ks='FORESLÅET – klar til godkendelse'
     stats[ks.split(' –')[0]]+=1
     rows.append(dict(product_id=p['id'],handle=p['handle'],titel=title,status=p['status'],maerke=vendor,tommer=inch,oem=' / '.join(oem),stand=stand,
         lager_egen=p['totalInventory'],billeder=p['mediaCount']['count'],nuv_pris_inkl_moms=price,shopify_kostpris_dkk=cost,nuv_pris_div_kost=ratio,
         kilde_url=url,saelger=seller,land=country,kildepris=sprice,valuta=cur,kilde_metafelt=srckey,kildestatus=srcstatus,momsgrundlag=moms,
-        forslag_ex_moms_kost_x1_40=prop_ex,forslag_inkl_moms_normalmoms=prop,aendring_kr=diff,vw_loft=cap,vw_loft_check=capflag,
+        forslag_ex_moms=prop_ex,forslag_inkl_moms=prop,aendring_kr=diff,vw_loft=cap,vw_loft_check=capflag,
         tekstkontrol=dq,kvalitetsfund='; '.join(issues),kontrolstatus=ks))
 cols=list(rows[0].keys())
 with open(OUT+'.csv','w',newline='',encoding='utf-8-sig') as f:
