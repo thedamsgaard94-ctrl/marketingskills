@@ -34,5 +34,6 @@ Masseændringer over 25 produkter kræver godkendelse.
 
 ## Åbne spørgsmål til ejeren
 
-1. **Prisgrundlag:** De fleste fælge har pris/kostpris ≈ 2,33. Med 1,4 × 1,25 i moms burde forholdet være 1,75. Er kostprisen i Shopify i en anden valuta eller ekskl. fragt, eller gælder der en særregel?
-2. **Fast pris 14.000 kr.:** Mange Audi 19″-sæt står til præcis 14.000 kr. Seks af dem ligger under kostprisen. Se `prisavvigelser-faelge-2026-11-22.csv`.
+1. **Prisgrundlag (afklaret 22.11):** Den gældende regel er salg ekskl. moms = dokumenteret direkte kost × 1,40, og salg inkl. moms = × 1,25 ved normal moms. De eksisterende priser er beregnet som kost / 0,43–0,45. Det er fortolkningen "40 % ren indtjening", og den skal godkendes eller forkastes, før nye priser udgives.
+2. **Momsgrundlag:** Ingen fælgsæt har en dokumenteret faktura eller momsordning. Alle prisforslag er derfor betingede. Se `faelge-aendringsliste-2026-11-22.xlsx`.
+3. **Audi-loft:** Der ligger en registreret Audi-loftregel fra 16.11 (`pdparts_internal.audi_price_cap_20261116`). Skal den gælde fremover?
