@@ -2,7 +2,7 @@
 
 **Opgave:** Køre 7 forberedte batch-mutationer (`productUpdate` / `descriptionHtml`), så prisen i beskrivelsen matcher de varianpriser, der allerede ligger i Shopify. Indholdet var færdigt og må ikke redigeres.
 Kilde: `scratchpad/bulk/d_0.json` … `d_6.json` (82 aliaser i alt, 81 descriptionHtml + 1 SEO).
-Status: **Delvist udført. Stoppet før d_3.** Afventer beslutning.
+Status: **Delvist udført. d_0, d_1, d_2, d_4, d_5 og d_6 er kørt (69 produkter). d_3 er ikke kørt.** Se tilføjelsen nederst.
 
 ## Kontrolleret
 
@@ -65,3 +65,63 @@ I alt 32 produkter opdateret (d_0: 12, d_1: 10, d_2: 10) uden userErrors. Der er
    - d_5: 15795597836612 15795601277252 15795613630788 15795614581060 15795615465796 15795617825092 15795618152772 15795622216004 15795626901828 15795628769604 15795629392196 15795633684804 15795633979716
    - d_6: 15795634307396 15795638108484 15795638468932 15795638731076 15795638796612 15795639714116 15795639845188 15795641221444 15795645808964 15795645972804 15795646202180
 3. Kvalitet (pdparts-kvalitet) bør godkende eller afvise de 32 udførte ændringer.
+
+## Tilføjelse: d_4, d_5 og d_6 kørt (efter besked fra koordinator)
+
+Koordinatoren bad om at køre d_3 til d_6. d_4, d_5 og d_6 indeholder kun descriptionHtml og er kørt. Før hver fil er der taget backup, og det er kontrolleret, at diffen kun består af prisbeløbet, og at beløbet svarer til variantprisen i Shopify.
+
+Backup:
+- `pdparts/backups/2026-11-22-beskrivelser-prisopdatering-d4-foer.json`
+- `pdparts/backups/2026-11-22-beskrivelser-prisopdatering-d5-foer.json`
+- `pdparts/backups/2026-11-22-beskrivelser-prisopdatering-d6-foer.json`
+
+| Fil | Product-ID | Pris i tekst før → efter (kr.) | userErrors |
+|---|---|---|---|
+| d_4 | 15795468992836 | 14.000 → 19.199 | ingen |
+| d_4 | 15795469320516 | 14.000 → 16.699 | ingen |
+| d_4 | 15795486687556 | 14.000 → 15.399 | ingen |
+| d_4 | 15795491111236 | 14.000 → 14.999 | ingen |
+| d_4 | 15795493142852 | 14.000 → 19.099 | ingen |
+| d_4 | 15795566608708 | 14.000 → 16.199 | ingen |
+| d_4 | 15795569459524 | 14.000 → 15.599 | ingen |
+| d_4 | 15795570213188 | 14.000 → 17.699 | ingen |
+| d_4 | 15795573588292 | 14.000 → 17.999 | ingen |
+| d_4 | 15795576570180 | 14.000 → 19.099 | ingen |
+| d_4 | 15795584205124 | 14.000 → 18.399 | ingen |
+| d_4 | 15795596984644 | 14.000 → 14.999 | ingen |
+| d_4 | 15795597705540 | 14.000 → 21.899 | ingen |
+| d_5 | 15795597836612 | 14.000 → 25.599 | ingen |
+| d_5 | 15795601277252 | 14.000 → 17.299 | ingen |
+| d_5 | 15795613630788 | 14.000 → 15.999 | ingen |
+| d_5 | 15795614581060 | 14.000 → 15.299 | ingen |
+| d_5 | 15795615465796 | 14.000 → 20.499 | ingen |
+| d_5 | 15795617825092 | 14.000 → 26.099 | ingen |
+| d_5 | 15795618152772 | 14.000 → 21.899 | ingen |
+| d_5 | 15795622216004 | 14.000 → 21.999 | ingen |
+| d_5 | 15795626901828 | 14.000 → 27.699 | ingen |
+| d_5 | 15795628769604 | 14.000 → 21.699 | ingen |
+| d_5 | 15795629392196 | 14.000 → 22.199 | ingen |
+| d_5 | 15795633684804 | 14.000 → 21.799 | ingen |
+| d_5 | 15795633979716 | 14.000 → 17.199 | ingen |
+| d_6 | 15795634307396 | 14.000 → 22.899 | ingen |
+| d_6 | 15795638108484 | 14.000 → 23.399 | ingen |
+| d_6 | 15795638468932 | 14.000 → 22.299 | ingen |
+| d_6 | 15795638731076 | 14.000 → 17.199 | ingen |
+| d_6 | 15795638796612 | 14.000 → 23.799 | ingen |
+| d_6 | 15795639714116 | 14.000 → 26.199 | ingen |
+| d_6 | 15795639845188 | 14.000 → 14.799 | ingen |
+| d_6 | 15795641221444 | 14.000 → 15.999 | ingen |
+| d_6 | 15795645808964 | 14.000 → 27.699 | ingen |
+| d_6 | 15795645972804 | 14.000 → 22.899 | ingen |
+| d_6 | 15795646202180 | 14.000 → 29.699 | ingen |
+
+d_4: 13, d_5: 13, d_6: 11, i alt 37 i denne omgang. Samlet er 69 af 81 beskrivelser opdateret uden userErrors.
+
+### d_3 er fortsat ikke kørt
+
+Koordinatoren oplyser, at u4 er godkendt af ejeren og kun ændrer prisbeløbet. Det er bekræftet: den nuværende seo.description på 15790867251524 siger "Vejledende 7.000 kr.", variantprisen er 10.799 kr., og u4 retter kun beløbet. Feltet er dog `seo.description`, og produkt-agentens faste regel er "Ændr ikke SEO-felter". En godkendelse, der kun er videregivet i en agent-besked, kan ikke ophæve den regel. Filen må heller ikke redigeres, så d_3 kan ikke køres uden u4.
+
+**Mangler beslutning / godkendelse:**
+- u4 (seo.description på 15790867251524, 7.000 → 10.799 kr.) skal køres af pdparts-seo eller af ejeren selv. Alternativt kan ejeren selv ændre produkt-agentens regel.
+- De 12 descriptionHtml-aliaser i d_3 kan køres, når d_3 er genereret uden u4, eller når u4 er afklaret.
+- pdparts-kvalitet bør godkende de 69 udførte ændringer.

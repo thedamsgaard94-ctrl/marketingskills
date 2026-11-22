@@ -1,0 +1,3866 @@
+{
+ "note": "Før-værdier 2026-11-22: 0 kr.-fælge. Rollback: pris -> old_price, status -> ACTIVE.",
+ "prissat": [
+  {
+   "product_id": "gid://shopify/Product/15752843002180",
+   "variant_id": "gid://shopify/ProductVariant/57585400119620",
+   "titel": "BMW Styling 613 – 5 Series F10, 5 Series F10 LCI, 6 Series F06 18″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 8299,
+   "kost_est": 3700.08,
+   "annonce": "BMW F10 F06 F11 FELGI ALUMINIOWE 19 ORYGINAŁ 7848572 36117848572 MPAKIET",
+   "url": "https://www.otomoto.pl/czesci/oferta/bmw-f10-f06-f11-felgi-aluminiowe-19-oryginal-7848572-36117848572-mpakiet-ID6HQQsO.html",
+   "pris_pln": 2050.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752855519556",
+   "variant_id": "gid://shopify/ProductVariant/57585427743044",
+   "titel": "BMW Styling 442 – 3 Series F30, 3 Series F30 LCI, 3 Series F31 19″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 12699,
+   "kost_est": 5689.86,
+   "annonce": "BMW OE F30 F31 F32 F33 F36 ALU Felgi Styling 442 19\" 5X120 ET 36/47 8/8.5J",
+   "url": "https://www.otomoto.pl/czesci/oferta/bmw-oe-f30-f31-f32-f33-f36-alu-felgi-styling-442-19-5x120-et-36-47-8-8-5j-ID6I5z1b.html",
+   "pris_pln": 3199.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752855781700",
+   "variant_id": "gid://shopify/ProductVariant/57585428005188",
+   "titel": "BMW Styling 379 – 1 Series F20, 1 Series F20 LCI, 1 Series F21 17″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 4199,
+   "kost_est": 1878.29,
+   "annonce": "FELGI ALUMINIOWE 17'' BMW F20 F21 F22 F23 STYLING 379",
+   "url": "https://www.otomoto.pl/czesci/oferta/felgi-aluminiowe-17-bmw-f20-f21-f22-f23-styling-379-ID6Hxcth.html",
+   "pris_pln": 998.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752939209028",
+   "variant_id": "gid://shopify/ProductVariant/57585525129540",
+   "titel": "BMW Styling 548 – 1 Series F40, 2 Series F44 Gran Coupe 17″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 6199,
+   "kost_est": 2745.89,
+   "annonce": "[1612] Felgi aluminiowe 17 Cali 5x112 IS54 BMW F40 F44 Oryginał +czujniki Styling 548",
+   "url": "https://www.otomoto.pl/czesci/oferta/1612-felgi-aluminiowe-17-cali-5x112-is54-bmw-f40-f44-oryginal-czujniki-styling-548-ID6IiOG1.html",
+   "pris_pln": 1499.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752939700548",
+   "variant_id": "gid://shopify/ProductVariant/57585526505796",
+   "titel": "BMW Styling 188 – 3 Series E90, 3 Series E90 LCI, 3 Series E91 17″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 3699,
+   "kost_est": 1621.99,
+   "annonce": "Felgi styling 188 BMW E90 E91 E92 E93 dwie szerokości rozmiar 17",
+   "url": "https://www.otomoto.pl/czesci/oferta/felgi-styling-188-bmw-e90-e91-e92-e93-dwie-szerokosci-rozmiar-17-ID6I6Gys.html",
+   "pris_pln": 850.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752940290372",
+   "variant_id": "gid://shopify/ProductVariant/57585528078660",
+   "titel": "BMW Styling 214 – X5 E70, X5 E70 LCI 20″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 17699,
+   "kost_est": 7942.87,
+   "annonce": "Oryginalne felgi 20 BMW 5x120 X5 E53 E70 F15 X6 E71 F16 F01 E65 Styling 214 SUV 10j ET40 11j ET37 74.1mm alufelgi OE",
+   "url": "https://www.otomoto.pl/czesci/oferta/oryginalne-felgi-20-bmw-5x120-x5-e53-e70-f15-x6-e71-f16-f01-e65-styling-214-suv-10j-et40-11j-et37-74-1mm-alufelgi-oe-ID6ECxIj.html",
+   "pris_pln": 4500.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752942485828",
+   "variant_id": "gid://shopify/ProductVariant/57585548886340",
+   "titel": "BMW Styling 103 – Z4 E85 17″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 6899,
+   "kost_est": 3093.97,
+   "annonce": "Felgi styling 103 17’ 8j et47 bmw e85 e86 e46 e36 e87 e81 z4 shadow",
+   "url": "https://www.otomoto.pl/czesci/oferta/felgi-styling-103-17-8j-et47-bmw-e85-e86-e46-e36-e87-e81-z4-shadow-ID6IjfoO.html",
+   "pris_pln": 1700.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752942715204",
+   "variant_id": "gid://shopify/ProductVariant/57585550131524",
+   "titel": "BMW Styling 108 – Z4 E85, Z4 E86 18″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 9999,
+   "kost_est": 4479.37,
+   "annonce": "Kola felgi styling 108 18’ 5x120 8j et47 8.5j et50 2tlg skrecane bmw z4 e85 e86 e46",
+   "url": "https://www.otomoto.pl/czesci/oferta/kola-felgi-styling-108-18-5x120-8j-et47-8-5j-et50-2tlg-skrecane-bmw-z4-e85-e86-e46-ID6Ijfcj.html",
+   "pris_pln": 2500.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752942813508",
+   "variant_id": "gid://shopify/ProductVariant/57585550197060",
+   "titel": "BMW Styling 208 – 1 Series E81, 1 Series E82, 1 Series E87 LCI 18″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 11199,
+   "kost_est": 4998.9,
+   "annonce": "Oryginalne Felgi do BMW 18” Styling 208 srebrne M pakiet",
+   "url": "https://www.otomoto.pl/czesci/oferta/oryginalne-felgi-do-bmw-18-styling-208-srebrne-m-pakiet-ID6Ie78H.html",
+   "pris_pln": 2800.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752943731012",
+   "variant_id": "gid://shopify/ProductVariant/57585556816196",
+   "titel": "BMW Styling 148 – X3 E83, X3 E83 LCI 17″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 3799,
+   "kost_est": 1706.84,
+   "annonce": "FELGI ALUMINIOWE 17'' STYLING 148 BMW X3 E83 E46",
+   "url": "https://www.otomoto.pl/czesci/oferta/felgi-aluminiowe-17-styling-148-bmw-x3-e83-e46-ID6Gchgt.html",
+   "pris_pln": 899.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752943927620",
+   "variant_id": "gid://shopify/ProductVariant/57585557635396",
+   "titel": "BMW Styling 112 – X3 E83, X3 E83 LCI 17″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 5899,
+   "kost_est": 2628.1,
+   "annonce": "FELGI KOŁA  Styling 112 KOMPLET Bmw x3 e83 17” 235/55/17 Zima Nexen",
+   "url": "https://www.otomoto.pl/czesci/oferta/felgi-kola-styling-112-komplet-bmw-x3-e83-17-235-55-17-zima-nexen-ID6DUFQd.html",
+   "pris_pln": 1200.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752943960388",
+   "variant_id": "gid://shopify/ProductVariant/57585557668164",
+   "titel": "BMW Styling 232 – X6 E71, X6 E72 19″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 13099,
+   "kost_est": 5864.77,
+   "annonce": "Oryginalne felgi BMW 19 Styling 232 5x120 3 F30 F32 F36 alufelgi Styling 8j ET36 8.5j ET47 F10 Z3 Z4 E46 X1 X3 E83 E90 F34 GT F01 F12 F20 F22 E87 E81 JR dwie szerokości Radom oryginał",
+   "url": "https://www.otomoto.pl/czesci/oferta/oryginalne-felgi-bmw-19-styling-232-5x120-3-f30-f32-f36-alufelgi-styling-8j-et36-8-5j-et47-f10-z3-z4-e46-x1-x3-e83-e90-f34-gt-f01-f12-f20-f22-e87-e81-jr-dwie-szerokosci-radom-oryginal-ID6Iem7y.html",
+   "pris_pln": 3300.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752944353604",
+   "variant_id": "gid://shopify/ProductVariant/57585560060228",
+   "titel": "BMW Styling 162 – 3 Series E90, 3 Series E90 LCI, 3 Series E91 18″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 5799,
+   "kost_est": 2574.45,
+   "annonce": "Kola styling 162 18’ 5x120 8j et34 8.5j et37 bmw e90 e91 e92 e46 felgi",
+   "url": "https://www.otomoto.pl/czesci/oferta/kola-styling-162-18-5x120-8j-et34-8-5j-et37-bmw-e90-e91-e92-e46-felgi-ID6Ijfai.html",
+   "pris_pln": 1400.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752944419140",
+   "variant_id": "gid://shopify/ProductVariant/57585560125764",
+   "titel": "BMW Styling 138 – 5 Series E60, 5 Series E60 LCI, 5 Series E61 17″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 8099,
+   "kost_est": 3613.5,
+   "annonce": "Oryginalne felgi 17 5x120 BMW oryginał Styling 138 xDrive seria 1 3 E87 F20 E90 X1 X3 F30 X4 E36 E46 E83 Z3 Z4 F10 E60 F12 6787575 7.5j ET43 Opel Insignia",
+   "url": "https://www.otomoto.pl/czesci/oferta/oryginalne-felgi-17-5x120-bmw-oryginal-styling-138-xdrive-seria-1-3-e87-f20-e90-x1-x3-f30-x4-e36-e46-e83-z3-z4-f10-e60-f12-6787575-7-5j-et43-opel-insignia-ID6Ic8mx.html",
+   "pris_pln": 2000.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752945467716",
+   "variant_id": "gid://shopify/ProductVariant/57585565335876",
+   "titel": "BMW Styling 343 – 5 Series F10 20″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 31199,
+   "kost_est": 14002.26,
+   "annonce": "BMW M5 M6 4x Koła Kute Felgi Styling 343 20\" 5X120 9,5J Et31/10,5J Et19",
+   "url": "https://www.otomoto.pl/czesci/oferta/bmw-m5-m6-4x-kola-kute-felgi-styling-343-20-5x120-9-5j-et31-10-5j-et19-ID6IgmcG.html",
+   "pris_pln": 7999.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752945860932",
+   "variant_id": "gid://shopify/ProductVariant/57585566843204",
+   "titel": "BMW Styling 666 – 3 Series F80, 3 Series F80 M3 LCI, 4 Series F82 20″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 39599,
+   "kost_est": 17813.84,
+   "annonce": "ORYGINALNE FELGI BMW M2 M3 M4 F80 F82 STYLING 666 20''",
+   "url": "https://www.otomoto.pl/czesci/oferta/oryginalne-felgi-bmw-m2-m3-m4-f80-f82-styling-666-20-ID6FLZx4.html",
+   "pris_pln": 10200.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752946188612",
+   "variant_id": "gid://shopify/ProductVariant/57585567170884",
+   "titel": "BMW Styling 859M – 4 Series G26 Gran Coupe, i4 G26 Gran Coupe 19″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 26499,
+   "kost_est": 11924.16,
+   "annonce": "nowe felgi bmw 3 4 i4 5 i5 6 7 8 x1 x2 x3 x4 19 oe 8747304 styling 859m",
+   "url": "https://www.otomoto.pl/czesci/oferta/nowe-felgi-bmw-3-4-i4-5-i5-6-7-8-x1-x2-x3-x4-19-oe-8747304-styling-859m-ID6IjBuj.html",
+   "pris_pln": 6799.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948023620",
+   "variant_id": "gid://shopify/ProductVariant/57585572512068",
+   "titel": "BMW Styling 694 – X3 G01, X4 G02 19″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 11699,
+   "kost_est": 5225.72,
+   "annonce": "KOŁA ZIMOWE Felgi Aluminiowe 19” 5x112 7,5Jx19 ET 32 OE BMW X3 OE STYLING 694 N5856",
+   "url": "https://www.otomoto.pl/czesci/oferta/kola-zimowe-felgi-aluminiowe-19-5x112-7-5jx19-et-32-oe-bmw-x3-oe-styling-694-n5856-ID6Ig6hY.html",
+   "pris_pln": 2700.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948285764",
+   "variant_id": "gid://shopify/ProductVariant/57585572774212",
+   "titel": "BMW Styling 735 – X5 G05, X5 G05 LCI, X6 G06 19″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 20499,
+   "kost_est": 9207.01,
+   "annonce": "Koła Felgi Aluminiowe BMW X5 G05 X6 G06 19\" OEM V-Spoke Styling 735 Pirelli RunFlat TPMS",
+   "url": "https://www.otomoto.pl/czesci/oferta/kola-felgi-aluminiowe-bmw-x5-g05-x6-g06-19-oem-v-spoke-styling-735-pirelli-runflat-tpms-ID6Ie44e.html",
+   "pris_pln": 4999.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948351300",
+   "variant_id": "gid://shopify/ProductVariant/57585572839748",
+   "titel": "BMW Styling 738 – X5 G05, X5 G05 LCI, X5 G18 20″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 23199,
+   "kost_est": 10419.24,
+   "annonce": "Koła Felgi Aluminiowe BMW X5 X6 G05 G06 20\" Styling 738 OEM + Opony Hankook 275/45R20 305/40R20",
+   "url": "https://www.otomoto.pl/czesci/oferta/kola-felgi-aluminiowe-bmw-x5-x6-g05-g06-20-styling-738-oem-opony-hankook-275-45r20-305-40r20-ID6IdWDX.html",
+   "pris_pln": 5699.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949563716",
+   "variant_id": "gid://shopify/ProductVariant/57585574019396",
+   "titel": "BMW Styling 350 – 5 Series F10, 5 Series F10 LCI, 5 Series F11 18″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 7299,
+   "kost_est": 3267.15,
+   "annonce": "Kola felgi styling 350 18’ 5x120 8j et 30 9j et44 bmw f10 f11 e60",
+   "url": "https://www.otomoto.pl/czesci/oferta/kola-felgi-styling-350-18-5x120-8j-et-30-9j-et44-bmw-f10-f11-e60-ID6Ijfrl.html",
+   "pris_pln": 1800.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949694788",
+   "variant_id": "gid://shopify/ProductVariant/57585574183236",
+   "titel": "BMW Styling 351 – 5 Series F10, 5 Series F10 LCI, 5 Series F11 19″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 9599,
+   "kost_est": 4288.88,
+   "annonce": "Felgi Aluminiowe 19 BMW F10 F11 5x120 ET 33 Styling 351",
+   "url": "https://www.otomoto.pl/czesci/oferta/felgi-aluminiowe-19-bmw-f10-f11-5x120-et-33-styling-351-ID6IjGws.html",
+   "pris_pln": 2390.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950088004",
+   "variant_id": "gid://shopify/ProductVariant/57585574576452",
+   "titel": "BMW Styling 194 – 3 Series E90, 3 Series E90 LCI, 3 Series E91 17″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 4599,
+   "kost_est": 2053.19,
+   "annonce": "FELGI ALUMINIOWE 17'' BMW E81 E82 E87 E90 E91 E46 STYLING 194",
+   "url": "https://www.otomoto.pl/czesci/oferta/felgi-aluminiowe-17-bmw-e81-e82-e87-e90-e91-e46-styling-194-ID6H0Tpf.html",
+   "pris_pln": 1099.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950120772",
+   "variant_id": "gid://shopify/ProductVariant/57585574609220",
+   "titel": "BMW Styling 207 – 1 Series E81, 1 Series E82, 1 Series E87 17″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 3099,
+   "kost_est": 1362.22,
+   "annonce": "Koła felgi styling 207 17” m pakiet e90 e87 e91 e46",
+   "url": "https://www.otomoto.pl/czesci/oferta/kola-felgi-styling-207-17-m-pakiet-e90-e87-e91-e46-ID6DUsgz.html",
+   "pris_pln": 700.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950219076",
+   "variant_id": "gid://shopify/ProductVariant/57585574707524",
+   "titel": "BMW Styling 172 – 5 Series E60, 5 Series E60 LCI, 5 Series E61 19″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 15799,
+   "kost_est": 7076.99,
+   "annonce": "Oryginalne felgi BMW E60 19 grafit Shadow Chrome Styling 172 8.5j ET18 9.5j ET32 F01 E61 E65 dwie szerokości",
+   "url": "https://www.otomoto.pl/czesci/oferta/oryginalne-felgi-bmw-e60-19-grafit-shadow-chrome-styling-172-8-5j-et18-9-5j-et32-f01-e61-e65-dwie-szerokosci-ID6HKEaV.html",
+   "pris_pln": 4000.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950251844",
+   "variant_id": "gid://shopify/ProductVariant/57585574740292",
+   "titel": "BMW Styling 225 – 3 Series E90, 3 Series E90 LCI, 3 Series E91 19″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 9999,
+   "kost_est": 4479.37,
+   "annonce": "Bmw E46 E90 E87 E91 E60 E92   alufelgi 19 5X120 styling 225 styling225 8J 9J ET 8037141 8037142",
+   "url": "https://www.otomoto.pl/czesci/oferta/bmw-e46-e90-e87-e91-e60-e92-alufelgi-19-5x120-styling-225-styling225-8j-9j-et-8037141-8037142-ID6IjqV4.html",
+   "pris_pln": 2500.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950415684",
+   "variant_id": "gid://shopify/ProductVariant/57585574904132",
+   "titel": "BMW Styling 227 – X5 E70, X5 E70 LCI 20″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 15499,
+   "kost_est": 6957.47,
+   "annonce": "BMW  X5 E70 X6 E71   alufelgi opony 20 5x120 275/40/20 315/35/20 10J Et40 11J ET35 8037350 8037349 styling 227",
+   "url": "https://www.otomoto.pl/czesci/oferta/bmw-x5-e70-x6-e71-alufelgi-opony-20-5x120-275-40-20-315-35-20-10j-et40-11j-et35-8037350-8037349-styling-227-ID6HqHsr.html",
+   "pris_pln": 3700.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951726404",
+   "variant_id": "gid://shopify/ProductVariant/57585576313156",
+   "titel": "Mercedes-Benz Y-eger fælg – A1674012100 19″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 11899,
+   "kost_est": 5343.51,
+   "annonce": "a1674012100 FELGI 19 5x112 MERCEDES GL GLE W167",
+   "url": "https://www.otomoto.pl/czesci/oferta/a1674012100-felgi-19-5x112-mercedes-gl-gle-w167-ID6HkR8l.html",
+   "pris_pln": 2999.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951857476",
+   "variant_id": "gid://shopify/ProductVariant/57585576476996",
+   "titel": "Mercedes-Benz AMG 7-dobbelteger fælg – A4474015100 19″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 20799,
+   "kost_est": 9326.54,
+   "annonce": "Felgi Mercedes V klasa Vito 5x112 19 8J ET 52 A4474015100 W447",
+   "url": "https://www.otomoto.pl/czesci/oferta/felgi-mercedes-v-klasa-vito-5x112-19-8j-et-52-a4474015100-w447-ID6HTZpH.html",
+   "pris_pln": 5299.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951890244",
+   "variant_id": "gid://shopify/ProductVariant/57585576444228",
+   "titel": "Mercedes-Benz 9-spoke fælg – A2224010802 17″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 4999,
+   "kost_est": 2228.1,
+   "annonce": "Alufelgi 5x112 17 Mercedes-Benz S-Klasa W222 A2224010802 (F9866)",
+   "url": "https://www.otomoto.pl/czesci/oferta/alufelgi-5x112-17-mercedes-benz-s-klasa-w222-a2224010802-f9866-ID6IftGV.html",
+   "pris_pln": 1200.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952512836",
+   "variant_id": "gid://shopify/ProductVariant/57585577099588",
+   "titel": "Mercedes-Benz multieger fælg, High-sheen finish – A2544014900 19″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 35099,
+   "kost_est": 15787.66,
+   "annonce": "Koła Zimowe 19\" GLC X254 A2544014900 Continental 2026 Oryginalne - Himalaya Grey",
+   "url": "https://www.otomoto.pl/czesci/oferta/kola-zimowe-19-glc-x254-a2544014900-continental-2026-oryginalne-himalaya-grey-ID6IjLio.html",
+   "pris_pln": 8799.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952676676",
+   "variant_id": "gid://shopify/ProductVariant/57585577296196",
+   "titel": "Mercedes-Benz 12-spoke fælg – A2044010002 17″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 3599,
+   "kost_est": 1587.32,
+   "annonce": "KOŁA FELGI ALUMINIOWE R17 5x112 OPONY ZIMOWE MERCEDES W204 OE A2044010002",
+   "url": "https://www.otomoto.pl/czesci/oferta/kola-felgi-aluminiowe-r17-5x112-opony-zimowe-mercedes-w204-oe-a2044010002-ID6Igs6z.html",
+   "pris_pln": 599.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954511684",
+   "variant_id": "gid://shopify/ProductVariant/57585579327812",
+   "titel": "Mercedes-Benz 7-dobbelteger fælg – A2464010602 17″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 6499,
+   "kost_est": 2920.8,
+   "annonce": "Felgi Mercedes 17 A2464010602 W176 W246 C117 X117 7.5J ET52.5 5x112 grafit polysk",
+   "url": "https://www.otomoto.pl/czesci/oferta/felgi-mercedes-17-a2464010602-w176-w246-c117-x117-7-5j-et52-5-5x112-grafit-polysk-ID6IfYia.html",
+   "pris_pln": 1600.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985379140",
+   "variant_id": "gid://shopify/ProductVariant/57585610850628",
+   "titel": "Mercedes-Benz multieger fælg – A2184010800 18″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 6199,
+   "kost_est": 2747.62,
+   "annonce": "MERCEDES ALUFELGA FELGA FELGI 8,5Jx18H2 ET34,5 5x112 A2184010800",
+   "url": "https://www.otomoto.pl/czesci/oferta/mercedes-alufelga-felga-felgi-8-5jx18h2-et34-5-5x112-a2184010800-ID6IjYGX.html",
+   "pris_pln": 1500.0
+  },
+  {
+   "product_id": "gid://shopify/Product/15753003630916",
+   "variant_id": "gid://shopify/ProductVariant/57585629593924",
+   "titel": "Mercedes-Benz Y-eger fælg, High-sheen rim flange – A1674012100 19″ – originale fælge",
+   "old_price": "0.00",
+   "new_price": 11899,
+   "kost_est": 5343.51,
+   "annonce": "a1674012100 FELGI 19 5x112 MERCEDES GL GLE W167",
+   "url": "https://www.otomoto.pl/czesci/oferta/a1674012100-felgi-19-5x112-mercedes-gl-gle-w167-ID6HkR8l.html",
+   "pris_pln": 2999.0
+  }
+ ],
+ "kladde": [
+  {
+   "product_id": "gid://shopify/Product/15751130775876",
+   "titel": "Mercedes-Benz multieger fælg – A1674011600 23″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752842510660",
+   "titel": "BMW Styling 699M – X3 G01, X3 G01 LCI, X3 G08 LCI 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752854798660",
+   "titel": "BMW Styling 403 – 3 Series F30, 3 Series F30 LCI, 3 Series F31 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752856076612",
+   "titel": "BMW Styling 698M – X3 G01, X4 G02 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752856600900",
+   "titel": "BMW Styling 728M – 8 Series G14, 8 Series G15, 8 Series G16 Gran Coupe 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752938717508",
+   "titel": "BMW Styling 704M – 3 Series F30, 3 Series F30 LCI, 3 Series F31 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752939176260",
+   "titel": "BMW Styling 557M – 1 Series F40, 2 Series F44 Gran Coupe 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752939274564",
+   "titel": "BMW Styling 488 – 1 Series F40, 2 Series F44 Gran Coupe 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752939340100",
+   "titel": "BMW Styling 555M – 1 Series F40, 2 Series F44 Gran Coupe 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752939372868",
+   "titel": "BMW OE 36116760630 – 6 Series E63, 6 Series E64 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752939471172",
+   "titel": "BMW OE 36116760627 – 6 Series E63, 6 Series E64 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752939503940",
+   "titel": "BMW Styling 105 – Z4 E85, Z4 E86 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752939536708",
+   "titel": "BMW OE 36116770942 – 6 Series E63, 6 Series E63 LCI, 6 Series E64 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752939667780",
+   "titel": "BMW Styling 189 – 3 Series E90, 3 Series E90 LCI, 3 Series E91 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752939733316",
+   "titel": "BMW OE 36116767828 – 7 Series E65, 7 Series E66 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752939897156",
+   "titel": "BMW OE 36116764864 – 7 Series E65, 7 Series E66 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752939962692",
+   "titel": "BMW Styling 185 – 3 Series E90, 3 Series E90 LCI, 3 Series E91 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752939995460",
+   "titel": "BMW OE 36116767394 – 7 Series E65, 7 Series E66 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752940028228",
+   "titel": "BMW OE 36116764863 – 7 Series E65, 7 Series E66 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752940093764",
+   "titel": "BMW OE 36116762300 – 3 Series E46, 3 Series E46 LCI 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752940126532",
+   "titel": "BMW OE 36116760628 – 6 Series E63, 6 Series E64 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752940192068",
+   "titel": "BMW Styling 177 – X5 E70, X5 E70 LCI 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752940257604",
+   "titel": "BMW OE 36116774705 – 7 Series E65, 7 Series E66 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752940323140",
+   "titel": "BMW OE 36116775404 – 5 Series F07, 5 Series F07 LCI, 7 Series F01 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752940388676",
+   "titel": "BMW Styling 212 – X5 E70, X5 E70 LCI, X6 E71 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752940486980",
+   "titel": "BMW Styling 200 – Z4 E85, Z4 E86 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752940519748",
+   "titel": "BMW Styling 235 – 5 Series F07, 5 Series F07 LCI, 7 Series F01 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752940585284",
+   "titel": "BMW OE 36116770941 – 6 Series E63, 6 Series E63 LCI, 6 Series E64 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752940683588",
+   "titel": "BMW OE 36116767395 – 7 Series E65, 7 Series E66 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752940716356",
+   "titel": "BMW Styling 142 – 1 Series E81, 1 Series E82, 1 Series E87 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752942354756",
+   "titel": "BMW OE 36116760626 – 6 Series E63, 6 Series E63 LCI, 6 Series E64 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752942387524",
+   "titel": "BMW OE 36116760625 – 6 Series E63, 6 Series E63 LCI, 6 Series E64 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752942420292",
+   "titel": "BMW OE 36116760616 – 5 Series E60, 5 Series E60 LCI, 5 Series E61 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752942518596",
+   "titel": "BMW OE 36116758775 – 5 Series E60, 5 Series E60 LCI, 5 Series E61 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752942584132",
+   "titel": "BMW Styling 107 – Z4 E85, Z4 E86 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752942649668",
+   "titel": "BMW OE 36116758776 – 6 Series E63, 6 Series E63 LCI, 6 Series E64 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752942879044",
+   "titel": "BMW Styling 280 – X3 E83, X3 E83 LCI 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752942944580",
+   "titel": "BMW OE 36116756231 – 5 Series E39 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752943042884",
+   "titel": "BMW OE 36116755857 – 3 Series E36, 3 Series E46 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752943075652",
+   "titel": "BMW OE 36116753242 – 7 Series E65, 7 Series E66 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752943108420",
+   "titel": "BMW OE 36116754912 – 5 Series E39 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752943305028",
+   "titel": "BMW Styling 204 – X3 E83, X3 E83 LCI 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752943337796",
+   "titel": "BMW Styling 217 – 1 Series E81, 1 Series E82, 1 Series E87 LCI 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752943403332",
+   "titel": "BMW Styling 258 – X6 E71, X6 E72 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752943468868",
+   "titel": "BMW Styling 263 – 1 Series E81, 1 Series E82, 1 Series E87 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752943501636",
+   "titel": "BMW Styling 215 – X5 E70, X6 E71, X6 E72 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752943534404",
+   "titel": "BMW Styling 161 – 3 Series E90, 3 Series E90 LCI, 3 Series E91 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752943567172",
+   "titel": "BMW Styling 203 – Z4 E85, Z4 E86 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752943632708",
+   "titel": "BMW Styling 201 – Z4 E85, Z4 E86 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752943763780",
+   "titel": "BMW Styling 335 – X5 E70, X5 E70 LCI 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752944058692",
+   "titel": "BMW OE 36111092962 – 5 Series E39 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752944288068",
+   "titel": "BMW Styling 315 – 5 Series F07, 5 Series F07 LCI, 7 Series F01 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752944320836",
+   "titel": "BMW OE 36112229640 – 5 Series E39 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752944451908",
+   "titel": "BMW OE 36116751761 – 5 Series E39 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752944582980",
+   "titel": "BMW OE 36108093840 – 3 Series G80 M3, 4 Series G82 M4 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752944714052",
+   "titel": "BMW OE 36108093841 – 3 Series G80 M3, 4 Series G82 M4 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752944845124",
+   "titel": "BMW OE 36108093844 – 2 Series G87 M2, 3 Series G80 M3, 3 Series G81 M3 Touring 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752944943428",
+   "titel": "BMW OE 36108093845 – 2 Series G87 M2, 3 Series G80 M3, 3 Series G81 M3 Touring 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752945008964",
+   "titel": "BMW Styling 763M – 2 Series F87, 2 Series F87 M2 LCI, 3 Series F80 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752945107268",
+   "titel": "BMW Styling 763M – 3 Series F80, 3 Series F80 M3 LCI, 4 Series F82 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752945205572",
+   "titel": "BMW Styling 788M – 2 Series F87 M2 LCI 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752945336644",
+   "titel": "BMW Styling 730I – 8 Series G14, 8 Series G15, 8 Series G16 Gran Coupe 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752945369412",
+   "titel": "BMW OE 36112282999 – 3 Series E46 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752945795396",
+   "titel": "BMW Styling 817M – 6 Series G32 GT LCI, 7 Series G11, 7 Series G11 LCI 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752945828164",
+   "titel": "BMW Styling 799M – Z4 G29 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752945893700",
+   "titel": "BMW OE 36118092586 – 6 Series G32 GT LCI, 7 Series G11 LCI, 7 Series G12 LCI 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752945959236",
+   "titel": "BMW OE 36118092591 – 6 Series G32 GT LCI, 7 Series G11 LCI, 7 Series G12 LCI 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752946090308",
+   "titel": "BMW Styling 845M – 5 Series G30 LCI, 5 Series G31 LCI 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752946123076",
+   "titel": "BMW OE 36118747286 – 4 Series G26 Gran Coupe, i4 G26 Gran Coupe 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752946155844",
+   "titel": "BMW OE 36115A504D7 – 4 Series G26 Gran Coupe, i4 G26 Gran Coupe 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752946221380",
+   "titel": "BMW OE 36115A504D8 – 4 Series G26 Gran Coupe, i4 G26 Gran Coupe 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752946254148",
+   "titel": "BMW OE 36118747306 – 4 Series G26 Gran Coupe, i4 G26 Gran Coupe 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752946286916",
+   "titel": "BMW OE 36118747307 – 4 Series G26 Gran Coupe, i4 G26 Gran Coupe 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752946319684",
+   "titel": "BMW Styling 365 – 5 Series F10, 5 Series F10 LCI, 5 Series F11 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752946352452",
+   "titel": "BMW Styling 366 – 5 Series F10, 5 Series F10 LCI, 5 Series F11 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752946385220",
+   "titel": "BMW Styling 385 – 1 Series F20, 1 Series F20 LCI, 1 Series F21 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752946417988",
+   "titel": "BMW Styling 405 – 1 Series F20, 1 Series F20 LCI, 1 Series F21 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752946483524",
+   "titel": "BMW Styling 416 – 3 Series F30, 3 Series F30 LCI, 3 Series F31 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752946549060",
+   "titel": "BMW Styling 405 – 3 Series F30, 3 Series F30 LCI, 3 Series F31 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752946811204",
+   "titel": "BMW Styling 427 – i3 i01, i3 I01, i3 I01 LCI 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752946843972",
+   "titel": "BMW Styling 431M – i3 I01 LCI 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752946876740",
+   "titel": "BMW Styling 448 – X5 F15 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752947073348",
+   "titel": "BMW Styling 561 – X1 F48, X1 F48 LCI, X2 F39 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752947106116",
+   "titel": "BMW Styling 399 – 3 Series F30, 3 Series F31, 4 Series F32 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752947138884",
+   "titel": "BMW Styling 429M – i3 i01, i3 I01, i3 I01 LCI 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752947171652",
+   "titel": "BMW Styling 430M – i3 i01, i3 I01, i3 I01 LCI 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752947204420",
+   "titel": "BMW Styling 407 – 3 Series F30, 3 Series F30 LCI, 3 Series F31 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752947237188",
+   "titel": "BMW Styling 452 – 5 Series F10, 5 Series F10 LCI, 5 Series F11 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752947269956",
+   "titel": "BMW Styling 605 – X3 F25, X4 F26 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752947302724",
+   "titel": "BMW Styling 599M – X5 F15, X6 F16 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752947761476",
+   "titel": "BMW Styling 628 – 6 Series G32 GT, 6 Series G32 GT LCI, 7 Series G11 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752947827012",
+   "titel": "BMW Styling 658 – 3 Series F30 LCI, 3 Series F31 LCI, 3 Series F34 GT LCI 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752947892548",
+   "titel": "BMW Styling 663 – 5 Series G30, 5 Series G30 LCI, 5 Series G31 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752947925316",
+   "titel": "BMW Styling 669M – 5 Series G30, 5 Series G31 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752947958084",
+   "titel": "BMW Styling 692 – X3 G01, X3 G01 LCI, X4 G02 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752947990852",
+   "titel": "BMW Styling 695 – X3 G01, X3 G01 LCI, X4 G02 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948089156",
+   "titel": "BMW Styling 725 – 1 Series F20, 1 Series F20 LCI, 1 Series F21 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948121924",
+   "titel": "BMW Styling 567 – X1 F48, X1 F48 LCI, X2 F39 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948187460",
+   "titel": "BMW Styling 579 – X1 F48, X1 F48 LCI, X2 F39 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948220228",
+   "titel": "BMW Styling 783 – 2 Series G42, 3 Series G20, 3 Series G21 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948252996",
+   "titel": "BMW Styling 580 – X1 F48, X1 F48 LCI, X2 F39 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948318532",
+   "titel": "BMW Styling 716M – X1 F48, X1 F48 LCI, X2 F39 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948384068",
+   "titel": "BMW Styling 722M – X2 F39 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948449604",
+   "titel": "BMW Styling 898M – 2 Series G42, 3 Series G20, 3 Series G20 LCI 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948482372",
+   "titel": "BMW Styling 431 – i3 I01 LCI 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948515140",
+   "titel": "BMW Styling 868M – 4 Series G26 Gran Coupe, i4 G26 Gran Coupe 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948613444",
+   "titel": "BMW OE 36116896764 – 4 Series G26 Gran Coupe, i4 G26 Gran Coupe 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948646212",
+   "titel": "BMW OE 36108090192 – 3 Series F80, 3 Series F80 M3 LCI, 4 Series F82 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948678980",
+   "titel": "BMW Styling 302 – 5 Series F07, 5 Series F07 LCI, 7 Series F01 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948711748",
+   "titel": "BMW OE 36108090193 – 3 Series F80, 3 Series F80 M3 LCI, 4 Series F82 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948744516",
+   "titel": "BMW Styling 313 – 3 Series E90, 3 Series E90 LCI, 3 Series E91 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948842820",
+   "titel": "BMW OE 36108093830 – 3 Series G80 M3, 4 Series G82 M4, 4 Series G82 M4 LCI 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948875588",
+   "titel": "BMW Styling 441 – 3 Series F30, 3 Series F30 LCI, 3 Series F31 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948908356",
+   "titel": "BMW OE 36108093831 – 3 Series G80 M3, 4 Series G82 M4, 4 Series G82 M4 LCI 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752948973892",
+   "titel": "BMW Styling 436 – 1 Series F20, 1 Series F20 LCI, 1 Series F21 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949006660",
+   "titel": "BMW OE 36108093832 – 3 Series G80 M3, 3 Series G81 M3 Touring, 4 Series G82 M4 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949039428",
+   "titel": "BMW OE 36108093833 – 3 Series G80 M3, 3 Series G81 M3 Touring, 4 Series G82 M4 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949104964",
+   "titel": "BMW OE 36108093834 – 3 Series G80 M3, 3 Series G81 M3 Touring, 4 Series G82 M4 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949203268",
+   "titel": "BMW OE 36108093835 – 3 Series G80 M3, 3 Series G81 M3 Touring, 4 Series G82 M4 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949236036",
+   "titel": "BMW OE 36108093836 – 3 Series G80 M3, 3 Series G81 M3 Touring, 4 Series G82 M4 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949399876",
+   "titel": "BMW OE 36108093837 – 3 Series G80 M3, 3 Series G81 M3 Touring, 4 Series G82 M4 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949432644",
+   "titel": "BMW Styling 326 – Z4 E89 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949465412",
+   "titel": "BMW Styling 331 – 5 Series F10, 5 Series F10 LCI, 6 Series F06 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949498180",
+   "titel": "BMW Styling 333 – X5 E70, X5 E70 LCI 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949629252",
+   "titel": "BMW OE 36116791415 – X5 E70, X5 E70 LCI, X6 E71 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949662020",
+   "titel": "BMW OE 36116791417 – X6 E71, X6 E72 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949727556",
+   "titel": "BMW OE 36116791418 – X6 E71, X6 E72 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949825860",
+   "titel": "BMW Styling 338 – 3 Series E90, 3 Series E90 LCI, 3 Series E91 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949858628",
+   "titel": "BMW Styling 339 – 3 Series E90, 3 Series E90 LCI, 3 Series E91 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752949891396",
+   "titel": "BMW Styling 340 – 3 Series E90, 3 Series E90 LCI, 3 Series E91 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950022468",
+   "titel": "BMW OE 36118036931 – 3 Series E90, 3 Series E90 LCI, 3 Series E91 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950186308",
+   "titel": "BMW Styling 311 – X1 E84 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950284612",
+   "titel": "BMW OE 36116794271 – X3 F25, X4 F26 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950317380",
+   "titel": "BMW Styling 324 – X1 E84 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950382916",
+   "titel": "BMW OE 36116794272 – X3 F25, X4 F26 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950513988",
+   "titel": "BMW Styling 375 – X5 E70, X5 E70 LCI, X5 F15 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950546756",
+   "titel": "BMW Styling 336 – X6 E71, X6 E72 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950579524",
+   "titel": "BMW Styling 329 – 5 Series F10, 5 Series F10 LCI, 5 Series F11 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950645060",
+   "titel": "BMW Styling 421 – X1 E84 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950743364",
+   "titel": "BMW Styling 310M – X5 E70, X5 E70 LCI, X5 F15 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950808900",
+   "titel": "Mercedes-Benz AMG multieger smedet fælg – A2224011000 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950841668",
+   "titel": "Mercedes-Benz AMG smedet fælg in multieger design – A2324013700 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950874436",
+   "titel": "Mercedes-Benz AMG smedet fælg in cross-spoke design, High-sheen rim flange – A2054011700 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950907204",
+   "titel": "Mercedes-Benz AMG 10-dobbelteger smedet fælg – A1924011900 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950939972",
+   "titel": "Mercedes-Benz AMG light-alloy fælg, in 10-spoke design – A2064010401 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752950972740",
+   "titel": "Mercedes-AMG GLS63 23″ smedede krydsegerfælge – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951234884",
+   "titel": "Mercedes-Benz AMG multieger smedet fælg – A2234012600 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951267652",
+   "titel": "Mercedes-Benz AMG 10-spoke fælg – A4654012300 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951300420",
+   "titel": "Mercedes-Benz AMG multieger smedet fælg – A2224011100 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951333188",
+   "titel": "Mercedes-Benz multieger fælg, Aero – A2444010400 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951365956",
+   "titel": "Mercedes-Benz AMG 5-eger fælg – B66031282 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951398724",
+   "titel": "Mercedes-Benz 5-dobbelteger fælg – A4494014600 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951431492",
+   "titel": "Mercedes-Benz AMG multieger fælg – A2144010500 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951464260",
+   "titel": "Mercedes-Benz AMG smedet fælg in cross-spoke design – A2054016000 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951497028",
+   "titel": "Mercedes-AMG G63 22″ smedede krydsegerfælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951562564",
+   "titel": "Mercedes-Benz GLS AMG 23″ dobbelteger – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951595332",
+   "titel": "Mercedes-Benz AMG 5-dobbelteger fælg – A4634011900 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951628100",
+   "titel": "Mercedes-Benz AMG 5-eger fælg, High-sheen rim flange – A1904010200 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951660868",
+   "titel": "Mercedes-Benz GLC EQ X540 – originale AMG-fælge med 10 Y-eger, 21″",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951693636",
+   "titel": "Mercedes-AMG GLE 63 Coupé C292 – 22″ krydseger",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951759172",
+   "titel": "Mercedes-Benz 10-dobbelteger fælg, Aero, High-sheen rim flange – A2144012500 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951791940",
+   "titel": "Mercedes-Benz AMG 5-eger fælg – A2964000200 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951824708",
+   "titel": "Mercedes-Benz 7-spoke fælg – B66471838 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951955780",
+   "titel": "Mercedes-Benz AMG light-alloy fælg, in cross-spoke design – A1744011500 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752951988548",
+   "titel": "Mercedes-Benz 5-hole fælg, Aero – A2234018100 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952021316",
+   "titel": "Mercedes-Benz 10-spoke fælg – A2054018100 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952054084",
+   "titel": "Mercedes-Benz 5-triple-spoke fælg – A2464012002 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952086852",
+   "titel": "Mercedes-Benz 5-eger fælg, High-sheen finish – A2934010600 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952119620",
+   "titel": "Mercedes-Benz 21-spoke fælg – B66474588 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952152388",
+   "titel": "Mercedes-Benz 16-spoke fælg – A4474012700 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952185156",
+   "titel": "Mercedes-Benz multieger fælg, High-sheen finish – A2134010800 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952217924",
+   "titel": "Mercedes-Benz 5-eger fælg, High-sheen finish – A2924010500 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952250692",
+   "titel": "Mercedes-Benz multieger fælg, Aero, High-sheen finish – A2954011900 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952283460",
+   "titel": "Mercedes-Benz multieger fælg, Aero – A5204011200 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952316228",
+   "titel": "Mercedes-Benz AMG smedet fælg in 5-dobbelteger design, High-sheen rim flange – A4634010400 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952348996",
+   "titel": "Mercedes-Maybach EQS 680 4MATIC 21″ Aero-fælg – A29640123007X23",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952381764",
+   "titel": "Mercedes-Benz multieger fælg – A2974012200 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952414532",
+   "titel": "Mercedes-Benz 7-spoke fælg – A2224011102 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952447300",
+   "titel": "Mercedes-Benz multieger fælg – A2224014500 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952480068",
+   "titel": "Mercedes-Benz 9-spoke fælg, Tarazed – B66471852 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952545604",
+   "titel": "Mercedes-Benz multieger fælg, High-sheen finish – A2544014800 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952578372",
+   "titel": "Mercedes-Benz EQS SUV X296 21″ Aero-fælge med multieger – A29640112007X23",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952611140",
+   "titel": "Mercedes-Benz 10-spoke fælg – A2924010200 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952643908",
+   "titel": "Mercedes-Benz multieger fælg – A4704010400 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752952709444",
+   "titel": "Mercedes-Benz 7-spoke fælg – A2224012202 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953037124",
+   "titel": "Mercedes-Benz 5-hole fælg – A1674013801 23″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953069892",
+   "titel": "Mercedes-Benz multieger fælg – A2224010402 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953102660",
+   "titel": "Mercedes-Benz 12-spoke fælg – A9074015300 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953168196",
+   "titel": "Mercedes-Benz AMG 6-dobbelteger fælg – B66031468 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953200964",
+   "titel": "Mercedes-Benz multieger fælg – A2134011500 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953233732",
+   "titel": "Mercedes-Benz EVO II fælg, Ceginus – B66470061 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953266500",
+   "titel": "Mercedes-Benz multieger fælg – A2134015400 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953299268",
+   "titel": "Mercedes-Benz 6-spoke fælg, Menkib – B66474318 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953332036",
+   "titel": "Mercedes-Benz multieger fælg – A2054015600 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953364804",
+   "titel": "Mercedes-Benz multieger fælg – B66474537 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953397572",
+   "titel": "Mercedes-Benz GLE Coupé C167 – originale 21″ fælge med fem dobbelteger",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953430340",
+   "titel": "Mercedes-Benz 7-dobbelteger fælg – B66474576 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953463108",
+   "titel": "Mercedes-Benz 10-dobbelteger fælg – B66474332 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953495876",
+   "titel": "Mercedes-Benz EQS V297 – 22″ med fem dobbelteger",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953528644",
+   "titel": "Mercedes-Benz multieger fælg, High-sheen finish – A2054019200 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953561412",
+   "titel": "Mercedes-AMG GLS63 23″ smedede 5-hulsfælge – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953594180",
+   "titel": "Mercedes-Benz 5-dobbelteger fælg, Aero – A1674013301 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953626948",
+   "titel": "Mercedes-Benz 9-spoke fælg – B66474429 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953659716",
+   "titel": "Mercedes-Benz 5-W spoke fælg, Aero – A1744010200 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953692484",
+   "titel": "Mercedes-Benz 10-hole fælg – A2064017000 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953725252",
+   "titel": "Mercedes-Benz multieger fælg – A2124010000 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953758020",
+   "titel": "Mercedes-Benz 7-spoke fælg – B66474412 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953790788",
+   "titel": "Mercedes-Benz 10-hole fælg – A2224011600 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953823556",
+   "titel": "Mercedes-Benz Y-eger fælg, Aero – A2544016000 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953856324",
+   "titel": "Mercedes-Benz 11-spoke fælg – B66470148 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953921860",
+   "titel": "Mercedes-Benz 15-eger fælg – A2314010602 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953954628",
+   "titel": "Mercedes-Benz 7-spoke fælg, Werdandi – A2044015102 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752953987396",
+   "titel": "Mercedes-Benz multieger fælg – A2174010300 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954020164",
+   "titel": "Mercedes-Benz AMG smedet fælg in 5-dobbelteger design, High-sheen rim flange – A1904012300 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954052932",
+   "titel": "Mercedes-Benz AMG smedet fælg in 5-dobbelteger design, High-sheen rim flange – A2054017400 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954085700",
+   "titel": "Mercedes-Benz multieger fælg, High-sheen finish – A2054011000 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954118468",
+   "titel": "Mercedes-Benz 5-triple-spoke fælg – A2224013900 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954151236",
+   "titel": "Mercedes-Benz multieger fælg, Aero, High-sheen finish – A2964012400 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954184004",
+   "titel": "Mercedes-Benz Y-eger fælg, High-sheen rim flange – A2234013800 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954216772",
+   "titel": "Mercedes-Benz 10-dobbelteger fælg, Aero – A2444011100 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954249540",
+   "titel": "Mercedes-Benz 7-spoke fælg – A2234002800 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954282308",
+   "titel": "Mercedes-Benz 5-Y-eger fælg, with additional spokes – A2574013400 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954315076",
+   "titel": "Mercedes-Benz multieger fælg – A2224013700 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954347844",
+   "titel": "Mercedes-Benz 7-spoke fælg – A2044015302 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954380612",
+   "titel": "Mercedes-Benz GLE Coupé C167 – 21″ fælge med seks dobbelteger i mat sort",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954413380",
+   "titel": "Mercedes-Benz 5-Y-eger fælg, Aero, High-sheen finish – A2144014100 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954446148",
+   "titel": "Mercedes-Benz 7-spoke fælg – B66474259 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954478916",
+   "titel": "Mercedes-Benz AMG smedet fælg in a 5-hole design, High-sheen rim flange – A2904011400 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954544452",
+   "titel": "Mercedes-Benz 10-hole fælg – B66471095 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954577220",
+   "titel": "Mercedes-Benz 5-hole fælg – A2054019000 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752954609988",
+   "titel": "Mercedes-Benz 5-dobbelteger fælg, High-sheen finish – A2534011500 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752984854852",
+   "titel": "Mercedes-Benz 7-spoke fælg, Cygnus – B66474181 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752984887620",
+   "titel": "Mercedes-Benz 6-hole fælg, Menkalina – B66472127 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752984985924",
+   "titel": "Mercedes-Benz AMG 10-spoke fælg – A2544000700 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985018692",
+   "titel": "Mercedes-Benz AMG 10-spoke fælg – A2924012300 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985084228",
+   "titel": "Mercedes-Benz 22″ syvhulsfælg – A29640126007X23",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985182532",
+   "titel": "Mercedes-Benz 7-spoke fælg – B66474247 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985215300",
+   "titel": "Mercedes-Benz 5-hole fælg, Aero – A2444011300 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985248068",
+   "titel": "Mercedes-Benz 12-spoke fælg, high-sheen – A2534011100 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985280836",
+   "titel": "Mercedes-Maybach GLS 600 4MATIC X167 – 22″ multiegerfælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985313604",
+   "titel": "Mercedes-Benz 5-Y-eger fælg – A1564012600 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985346372",
+   "titel": "Mercedes-Benz multieger fælg – A2224011702 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985411908",
+   "titel": "Mercedes-Benz multieger fælg – A2424010100 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985444676",
+   "titel": "Mercedes-Benz 8-spoke fælg – B66474562 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985477444",
+   "titel": "Mercedes-Benz 5-eger fælg – B66474533 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985542980",
+   "titel": "Mercedes-Benz 10-dobbelteger fælg – A2124010302 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985641284",
+   "titel": "Mercedes-Benz 9-spoke fælg – B66474267 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985674052",
+   "titel": "Mercedes-Benz 7-hole fælg – B66471096 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985739588",
+   "titel": "Mercedes-Benz 10-spoke fælg, Aero – A2974011000 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985772356",
+   "titel": "Mercedes-Benz Y-eger fælg, Aero – A1744013500 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985805124",
+   "titel": "Mercedes-Benz multieger fælg – A2124015402 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985837892",
+   "titel": "Mercedes-Benz 6-spoke fælg, High-sheen finish – A2474014000 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985936196",
+   "titel": "Mercedes-Benz 10-Y-eger fælg, Aero – A5404010900 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752985968964",
+   "titel": "Mercedes-Benz 7-spoke fælg, Alshain – B66471511 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986001732",
+   "titel": "Mercedes-Benz 6-dobbelteger fælg – B66474385 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986067268",
+   "titel": "Mercedes-Benz multieger fælg, Aero, High-sheen finish – A2954013300 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986165572",
+   "titel": "Mercedes-Benz 7-dobbelteger fælg – A2044010502 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986231108",
+   "titel": "Mercedes-Benz 21″ fælge med fem trippeleger – A16740153007X21",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986263876",
+   "titel": "Mercedes-Benz 12-spoke fælg – A2044010504 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986362180",
+   "titel": "Mercedes-Benz 5-hole fælg, Aero – A2974011100 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986394948",
+   "titel": "Mercedes-Benz 5-hole fælg, Aero – A1744013200 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986427716",
+   "titel": "Mercedes-Benz 9-spoke fælg – B66474423 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986460484",
+   "titel": "Mercedes-Benz multieger fælg – A2144013000 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986493252",
+   "titel": "Mercedes-Benz 7-dobbelteger fælg – A1664011002 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986526020",
+   "titel": "Mercedes-Benz AMG light-alloy fælg, in 10-dobbelteger design – A2144011600 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986558788",
+   "titel": "Mercedes-Benz 5-dobbelteger fælg, Aero – A2444011500 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986657092",
+   "titel": "Mercedes-Benz 6-dobbelteger fælg – A4704010200 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986689860",
+   "titel": "Mercedes-Benz 5-hole fælg – A1674013801 23″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986722628",
+   "titel": "Mercedes-Benz 10-dobbelteger fælg – A4474013700 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986755396",
+   "titel": "Mercedes-Benz 6-dobbelteger fælg – B66474383 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986820932",
+   "titel": "Mercedes-Benz multieger fælg, Aero – A2444010300 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986853700",
+   "titel": "Mercedes-Benz 5-hole fælg, Aero – A5404012700 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986886468",
+   "titel": "Mercedes-Benz 5-dobbelteger fælg – A4704010300 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986919236",
+   "titel": "Mercedes-Benz multieger fælg, High-sheen finish – A2954011800 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752986984772",
+   "titel": "Mercedes-Benz AMG 5-eger fælg – A1774014500 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752987050308",
+   "titel": "Mercedes-Benz 7-spoke fælg, Aero – A1664012902 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15752987115844",
+   "titel": "Mercedes-Benz AMG 5-eger fælg – A1764010202 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753003368772",
+   "titel": "Mercedes-Benz EQE SUV X294 21″ Aero-fælge med fem Y-eger – A29440108007X23",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753003467076",
+   "titel": "Mercedes-Benz EQE SUV X294 21″ Aero-fælge med fem W-eger – A29440102007X23",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753003499844",
+   "titel": "Mercedes-Benz 6-hole fælg, Albireo, Multipiece – B66471451 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753003565380",
+   "titel": "Mercedes-Benz 15-eger fælg, High-sheen finish – A2974010500 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753003598148",
+   "titel": "Mercedes-Benz 7-spoke fælg – A2044012700 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753003696452",
+   "titel": "Mercedes-Benz Y-eger fælg, High-sheen finish – A2534015200 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753003729220",
+   "titel": "Mercedes-Benz multieger fælg, High-sheen finish – A2314012702 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753003827524",
+   "titel": "Mercedes-Benz AMG smedet fælg in 10-spoke design, High-sheen rim flange – A1904013300 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753003860292",
+   "titel": "Mercedes-Benz 5-eger fælg – A2044015602 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753003893060",
+   "titel": "Mercedes-Benz Spoke fælg – B66471839 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753003925828",
+   "titel": "Mercedes-Benz GLE 22″ seksegerfælge i mat sort med glansdrejet front",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004056900",
+   "titel": "Mercedes-Benz 5-dobbelteger fælg, Aero-optimised – A1774011000 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004089668",
+   "titel": "Mercedes-Benz 5-hole fælg – A2054018300 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004122436",
+   "titel": "Mercedes-Benz 15-eger fælg – A1724010402 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004187972",
+   "titel": "Mercedes-Benz AMG 10-spoke design smedet fælg – A1904011100 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004286276",
+   "titel": "Mercedes-Benz AMG 5-eger fælg – A1744011300 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004351812",
+   "titel": "Mercedes-Benz 5-dobbelteger fælg, High-sheen finish – A1674014900 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004417348",
+   "titel": "Mercedes-Benz 5-dobbelteger fælg, High-sheen finish – A1664012702 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004450116",
+   "titel": "Mercedes-Benz 10-spoke fælg – A2184010600 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004482884",
+   "titel": "Mercedes-Benz 6-spoke fælg, High-sheen finish – A2534011600 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004613956",
+   "titel": "Mercedes-Benz 5-triple-spoke fælg – A2174010202 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004679492",
+   "titel": "Mercedes-Benz 6-dobbelteger fælg, Aero – A1674014800 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004712260",
+   "titel": "Mercedes-Benz multieger fælg – A2234014400 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004810564",
+   "titel": "Mercedes-Benz 5-dobbelteger fælg, High-sheen finish – A2074011902 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004843332",
+   "titel": "Mercedes-Benz 7-spoke fælg, High-sheen finish – A2044016902 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004876100",
+   "titel": "Mercedes-Benz AMG smedet fælg in 5-dobbelteger design, High-sheen rim flange – A2054017500 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004941636",
+   "titel": "Mercedes-Benz 5-eger fælg, with additional spokes – A1724011700 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753004974404",
+   "titel": "Mercedes-Benz 5-Y-eger fælg – A2144013400 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753005007172",
+   "titel": "Audi 5-arm helica 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753020244292",
+   "titel": "Audi 7-arm abitos 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753020440900",
+   "titel": "Audi 5-arm latus 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753020539204",
+   "titel": "Audi 5-twin-spoke 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753020735812",
+   "titel": "Audi 5-arm 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753020834116",
+   "titel": "Audi 5-V-spoke 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753021325636",
+   "titel": "Audi 5-arm velum 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753021423940",
+   "titel": "Audi 5-V-spoke 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753053045060",
+   "titel": "Jaguar Style 5055 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753053176132",
+   "titel": "Jaguar Style 5055 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753053208900",
+   "titel": "Jaguar Style 5070 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753053405508",
+   "titel": "Jaguar Style 5069 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753053471044",
+   "titel": "Jaguar Style 1037 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753053536580",
+   "titel": "Jaguar Style 5118 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753053602116",
+   "titel": "Jaguar Style 5048 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753053733188",
+   "titel": "Jaguar Style 5049 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753053864260",
+   "titel": "Jaguar Style 6014 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753053929796",
+   "titel": "Jaguar Style 5051 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753054060868",
+   "titel": "Jaguar Vortex 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753057730884",
+   "titel": "Jaguar Style 7024 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753057894724",
+   "titel": "Jaguar Turbine 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753057927492",
+   "titel": "Jaguar Style 1050 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753057960260",
+   "titel": "Jaguar Style 1049 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753057993028",
+   "titel": "Jaguar Style 1014 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058025796",
+   "titel": "Jaguar Style 5032 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058058564",
+   "titel": "Jaguar Style 7010 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058091332",
+   "titel": "Jaguar Style 1047 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058124100",
+   "titel": "Jaguar Style 6006 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058156868",
+   "titel": "Jaguar Style 5030 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058189636",
+   "titel": "Jaguar Style 7009 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058255172",
+   "titel": "Jaguar Style 1015 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058287940",
+   "titel": "Jaguar Style 5031 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058320708",
+   "titel": "Jaguar Style 5071 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058353476",
+   "titel": "Jaguar Style 1016 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058386244",
+   "titel": "Jaguar Style 1017 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058550084",
+   "titel": "Jaguar Style 5033 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058648388",
+   "titel": "Jaguar Style 1018 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058844996",
+   "titel": "Jaguar Style 5107 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058877764",
+   "titel": "Jaguar Toba 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058910532",
+   "titel": "Jaguar Aleutian 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058943300",
+   "titel": "Jaguar Amirante 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753058976068",
+   "titel": "Jaguar Kasuga 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059008836",
+   "titel": "Jaguar Orona 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059041604",
+   "titel": "Jaguar Maroa 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059074372",
+   "titel": "Jaguar Venom 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059107140",
+   "titel": "Jaguar Sunda 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059139908",
+   "titel": "Jaguar Style 1036 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059402052",
+   "titel": "Jaguar Style 1041 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059434820",
+   "titel": "Jaguar Style 1066 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059500356",
+   "titel": "Jaguar Style 5102 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059565892",
+   "titel": "Jaguar Style 1026 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059598660",
+   "titel": "Jaguar Style 5057 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059631428",
+   "titel": "Jaguar Style 5041 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059664196",
+   "titel": "Jaguar Style 7017 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059696964",
+   "titel": "Jaguar Style 1023 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059729732",
+   "titel": "Jaguar Style 5058 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059762500",
+   "titel": "Jaguar Style 5039 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059795268",
+   "titel": "Jaguar Style 6003 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059828036",
+   "titel": "Jaguar Style 5062 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059860804",
+   "titel": "Jaguar Style 1024 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059893572",
+   "titel": "Jaguar Style 5042 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059926340",
+   "titel": "Jaguar Style 5061 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059959108",
+   "titel": "Jaguar Style 1025 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753059991876",
+   "titel": "Jaguar Artura 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060024644",
+   "titel": "Jaguar Kalimnos 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060090180",
+   "titel": "Jaguar Takoba 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060122948",
+   "titel": "Jaguar Caravela 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060155716",
+   "titel": "Jaguar Ursa 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060188484",
+   "titel": "Jaguar Libra 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060221252",
+   "titel": "Jaguar Cygnus 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060254020",
+   "titel": "Jaguar Lyra 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060286788",
+   "titel": "Jaguar Manra 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060319556",
+   "titel": "Jaguar Aquila 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060352324",
+   "titel": "Jaguar Carelia  19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060385092",
+   "titel": "Jaguar Draco 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060417860",
+   "titel": "Jaguar Hydra 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060450628",
+   "titel": "Jaguar Selena 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060483396",
+   "titel": "Jaguar Senta 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060516164",
+   "titel": "Jaguar Ursa 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060647236",
+   "titel": "Land Rover Style 1012 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060680004",
+   "titel": "Land Rover Style 5011 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060712772",
+   "titel": "Land Rover Style 1011 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060778308",
+   "titel": "Land Rover Style 5025 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060843844",
+   "titel": "Land Rover Style 5025 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753060974916",
+   "titel": "Land Rover Style 5022 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753061007684",
+   "titel": "Land Rover Style 1009 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753064284484",
+   "titel": "Land Rover Style 5011 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753064382788",
+   "titel": "Land Rover Style 5023 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753064481092",
+   "titel": "Land Rover Style 5088 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753064513860",
+   "titel": "Land Rover Style 5089 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753064546628",
+   "titel": "Land Rover Style 5090 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753064612164",
+   "titel": "Land Rover Style 5006 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753064644932",
+   "titel": "Land Rover Style 7006 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753064677700",
+   "titel": "Land Rover Style 1002 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753064710468",
+   "titel": "Land Rover Style 1003 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753064874308",
+   "titel": "Land Rover Style 6001 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753064907076",
+   "titel": "Land Rover Style 7020 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753064939844",
+   "titel": "Land Rover Style 5024 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753065038148",
+   "titel": "Land Rover Style 1073 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753065103684",
+   "titel": "Land Rover Style 1072 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753065169220",
+   "titel": "Land Rover Style 1074 23″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753065267524",
+   "titel": "Land Rover Style 1001 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753065300292",
+   "titel": "Land Rover Style 5002 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753065333060",
+   "titel": "Land Rover Style 5004 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753065365828",
+   "titel": "Land Rover Style 6001 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753065398596",
+   "titel": "Land Rover Style 7008 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753065431364",
+   "titel": "Land Rover Style 1065 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753065529668",
+   "titel": "Land Rover Style 9001 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753065693508",
+   "titel": "Land Rover Style 5077 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753065726276",
+   "titel": "Land Rover Style 5115 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753065791812",
+   "titel": "Land Rover Style 5078 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753065824580",
+   "titel": "Land Rover Style 1085 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753065857348",
+   "titel": "Land Rover Style 5137 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753066676548",
+   "titel": "Land Rover Style 5127 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753066807620",
+   "titel": "Land Rover Style 5007 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753066905924",
+   "titel": "Land Rover Style 5020 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753067168068",
+   "titel": "Land Rover Style 1033 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753067266372",
+   "titel": "Land Rover Style 1051 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753067331908",
+   "titel": "Land Rover Style 1075 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753067364676",
+   "titel": "Land Rover Style 1089 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753067397444",
+   "titel": "Land Rover Style 5109 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753067430212",
+   "titel": "Land Rover Style 5108 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753067462980",
+   "titel": "Land Rover Style 5094 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753067561284",
+   "titel": "Land Rover Style 5093 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753067594052",
+   "titel": "Land Rover Style 5098 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753067659588",
+   "titel": "Land Rover Style 1086 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753067757892",
+   "titel": "Land Rover Style 7026 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069101380",
+   "titel": "Peugeot New-York 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069199684",
+   "titel": "Peugeot Phoenix 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069232452",
+   "titel": "Peugeot Silex 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069265220",
+   "titel": "Peugeot Halong 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069297988",
+   "titel": "Peugeot Kamakura 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069330756",
+   "titel": "Peugeot Aalborg 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069363524",
+   "titel": "Peugeot Portland 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069396292",
+   "titel": "Peugeot Breda 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069429060",
+   "titel": "Peugeot Jaspe 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069461828",
+   "titel": "Peugeot Calgary 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069494596",
+   "titel": "Peugeot Emerald 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069527364",
+   "titel": "Peugeot Style 2 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069560132",
+   "titel": "Peugeot OE 1609714880 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069592900",
+   "titel": "Peugeot Grand Angle 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069625668",
+   "titel": "Peugeot Style 08 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069658436",
+   "titel": "Peugeot Black Sapphire 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069691204",
+   "titel": "Peugeot OE 1665665180 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069723972",
+   "titel": "Peugeot OE 5402EC 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069756740",
+   "titel": "Peugeot Solstice  Mat Black Onyx 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069920580",
+   "titel": "Peugeot Sortilege 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069953348",
+   "titel": "Peugeot Original  Dark Grey 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753069986116",
+   "titel": "Peugeot Stromboli 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070018884",
+   "titel": "Peugeot Sortilege  Mat Black Onyx 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070051652",
+   "titel": "Peugeot Sortilege  Midnight Silver 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070084420",
+   "titel": "Peugeot Solstice  Anthra Grey 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070117188",
+   "titel": "Peugeot Quasar 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070149956",
+   "titel": "Peugeot Cosmos 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070182724",
+   "titel": "Peugeot Etoile 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070215492",
+   "titel": "Peugeot Hockenheim 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070248260",
+   "titel": "Peugeot Tanganyika 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070281028",
+   "titel": "Peugeot Soleil 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070313796",
+   "titel": "Peugeot Exona 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070346564",
+   "titel": "Peugeot Quark 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070379332",
+   "titel": "Peugeot Terrific 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070412100",
+   "titel": "Peugeot Oxalis 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070444868",
+   "titel": "Lexus F SPORT Alloy Wheel 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070477636",
+   "titel": "Lexus F SPORT  Split-Five-Spoke Forged Wheel 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070510404",
+   "titel": "Lexus F SPORT Trident Alloy Wheels 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070543172",
+   "titel": "Lexus G Spider 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070575940",
+   "titel": "Lexus Global 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070608708",
+   "titel": "Lexus Trident F-Sport Wheels 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070641476",
+   "titel": "Lexus F SPORT 18' 10-Spoke Forged Wheel (Black) 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070674244",
+   "titel": "Lexus F SPORT Split-Nine-Spoke Alloy Wheel 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070707012",
+   "titel": "Lexus F Sport  Full-Face Forged Alloy Wheels - Fronts 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070739780",
+   "titel": "Lexus Machine Tourmaline 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070772548",
+   "titel": "Lexus Gloss Black Machined Alloy Wheels, Black (11Bk01) 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070805316",
+   "titel": "Lexus F SPORT  Full Face Forged Wheel-Front (Silver) 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070838084",
+   "titel": "Lexus F SPORT  Full Face Forged Wheel - Rear (Gray) 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070870852",
+   "titel": "Lexus F SPORT  Full Face Forged Wheel - Rear (Silver) 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070903620",
+   "titel": "Lexus F SPORT  Full Face Forged Wheel - Front (Gray) 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070936388",
+   "titel": "Lexus Teleios 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753070969156",
+   "titel": "Lexus E Sport 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071001924",
+   "titel": "Lexus F SPORT Split-Six-Spoke Forged Alloy Wheels 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071034692",
+   "titel": "Lexus 15-Spoke Chrome-Finished Alloy Wheels 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071067460",
+   "titel": "Lexus Alloy Wheels, Take-Off Wheel 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071100228",
+   "titel": "Lexus Alloy Wheels, Take-Off Wheel 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071132996",
+   "titel": "Lexus Alloy Wheels, Factory Take-off Wheel 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071165764",
+   "titel": "Lexus OE DT001-30060-DU 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071198532",
+   "titel": "Lexus Alloy Wheels, Take Off Wheel 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071296836",
+   "titel": "Volvo XC40 5-Spoke Black Diamond Cut - 1185 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071329604",
+   "titel": "Volvo XC40 5-Double Spoke Silver - 148 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071362372",
+   "titel": "Volvo XC40 5-Double Spoke Black Diamond Cut - 924 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071395140",
+   "titel": "Volvo XC40 5-Spoke Black Diamond Cut 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071427908",
+   "titel": "Volvo XC40 5-Double Spoke Black Diamond Cut - 1266 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071460676",
+   "titel": "Volvo XC40 5-Triple Open Spoke Black Diamond Cut - W011 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071493444",
+   "titel": "Volvo XC40 5-Double Spoke Black Diamond Cut 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071526212",
+   "titel": "Peugeot Oltis 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071722820",
+   "titel": "Volvo XC40 5-Double Spoke Matt Black Diamond Cut - 920 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071755588",
+   "titel": "Volvo XC40 5-Spoke Black Diamond Cut - 1076 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071788356",
+   "titel": "Volvo XC40 5-Spoke Silver 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071821124",
+   "titel": "Volvo XC90 5-Multispoke Black Diamond Cut - 1259 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071853892",
+   "titel": "Volvo XC90 8-Spoke Black Diamond Cut - 1254 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071886660",
+   "titel": "Volvo XC90 5-Multi Spoke Black edition 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071919428",
+   "titel": "Volvo XC90 7-Double Spoke Black Diamond Cut - 1286 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071952196",
+   "titel": "Volvo XC90 5-Multi Spoke Black Diamond Cut - 1284 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753071984964",
+   "titel": "Volvo XC90 10-Spoke Silver Diamond Cut - 173 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072017732",
+   "titel": "Volvo XC90 5-Double Spoke Black Diamond Cut - 1079 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072050500",
+   "titel": "Volvo XC90 5-Spoke Matt Black Diamond Cut 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072083268",
+   "titel": "Volvo XC90 6-Spoke Turbine Silver - 177 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072116036",
+   "titel": "Volvo XC90 10-Spoke Black Diamond Cut - 1080 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072148804",
+   "titel": "Volvo XC90 5-V Spoke Black Diamond Cut - 1014 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072181572",
+   "titel": "Volvo XC90 8-Spoke Silver Diamond Cut - 174 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072214340",
+   "titel": "Volvo XC90 8-Multi Spoke Black Diamond Cut - 1081 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072247108",
+   "titel": "Volvo XC90 10-Spoke Turbine Tinted Silver Diamond Cut - 800144 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072279876",
+   "titel": "Volvo XC90 6-Double Spoke Silver - 800139 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072312644",
+   "titel": "Volvo XC90 6-Double Spoke Matt Tech Black - 800138 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072345412",
+   "titel": "Volvo XC90 20-Spoke Black Diamond Cut - 800147 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072378180",
+   "titel": "Volvo XC60 5-Spoke Silver 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072410948",
+   "titel": "Volvo XC60 5-Spoke Silver - 1070 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072443716",
+   "titel": "Volvo XC60 5-Double Spoke Black Diamond Cut - 1098 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072476484",
+   "titel": "Volvo XC60 5-Spoke Glossy Black Diamond Cut - 1300 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072509252",
+   "titel": "Volvo XC60 5-Y-Spoke Silver - 1009 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072542020",
+   "titel": "Volvo XC60 5-Spoke Glossy Silver 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072574788",
+   "titel": "Volvo XC60 10-Spoke Black Diamond Cut - 1010 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072607556",
+   "titel": "Volvo XC60 5-V Spoke Black Diamond Cut - 1265 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072640324",
+   "titel": "Volvo XC60 5-Double Spoke Black Diamond Cut - 1261 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072673092",
+   "titel": "Volvo XC60 5-Double Spoke Black Diamond Cut - 224 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072705860",
+   "titel": "Volvo XC60 5-Double Spoke Black Diamond Cut - 1241 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072738628",
+   "titel": "Volvo XC60 5-Double Spoke Glossy Black Diamond Cut- 1299 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072771396",
+   "titel": "Volvo XC60 5-Y Spoke Black Diamond Cut - 1264 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072804164",
+   "titel": "Volvo XC60 5-Double Spoke Matt Black Diamond Cut - 911 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072836932",
+   "titel": "Volvo XC60 5-Multi Spoke Black Diamond Cut - 1186 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072869700",
+   "titel": "Volvo XC60 5-Double Spoke Tech Black Diamond Cut - 1011 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072902468",
+   "titel": "Volvo XC60 6-Spoke Black Diamond Cut - 1252 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072935236",
+   "titel": "Volvo XC60 8-Spoke Black Diamond Cut - 1012 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753072968004",
+   "titel": "Volvo XC60 5-Y Spoke Glossy Black Diamond Cut- 1301 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073000772",
+   "titel": "Volvo XC60 5-V Spoke Black Diamond Cut - 1203 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073033540",
+   "titel": "Volvo XC60 5-Triple Spoke Matt Black Diamond Cut - 1013 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073066308",
+   "titel": "Volvo XC60 5-Double Spoke Black Edition 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073099076",
+   "titel": "Volvo XC60 5-V Spoke Glossy Black Diamond Cut - 1302 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073131844",
+   "titel": "Volvo XC60 10-Open Spoke Black Diamond Cut - 800142 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073164612",
+   "titel": "Volvo XC60 5-Double Spoke Glossy Black Diamond Cut- 1303 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073197380",
+   "titel": "Volvo EX30 5-Spoke Matt Graphite/Matt Black 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073328452",
+   "titel": "Volvo EX30 5-Spoke Matt Graphite/Matt Black 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073361220",
+   "titel": "Volvo EX30 5-Spoke Glossy Black Diamond Cut 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073393988",
+   "titel": "Volvo EX30 5-Y Spoke Glossy Black Diamond Cut 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073426756",
+   "titel": "Volvo EX30 5-Spoke Glossy Black Diamond Cut 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073459524",
+   "titel": "Volvo EX30 5-Spoke Glossy Black 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073492292",
+   "titel": "Volvo EX30 5-Spoke Silver/ Glossy Black 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073525060",
+   "titel": "Volvo ES90 5-Y Spoke Glossy Black Diamond Cut - 1298 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073557828",
+   "titel": "Volvo ES90 5-Spoke Glossy Black Diamond cut - 1269 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073590596",
+   "titel": "Volvo ES90 5-Spoke Glossy Black / Matt Graphite Diamond Cut - 1275 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073623364",
+   "titel": "Volvo ES90 7-Spoke Glossy Silver / Glossy Black 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073656132",
+   "titel": "Volvo EX40 5-Double Spoke Black Diamond Cut - 1261 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073688900",
+   "titel": "Volvo EX40 5-Double Spoke Black Diamond Cut 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073721668",
+   "titel": "Volvo EX40 5-Spoke Black Diamond Cut 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073754436",
+   "titel": "Volvo EX90 8-Spoke Matt/ Glossy Black 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073787204",
+   "titel": "Volvo EX40 5-Spoke Black Diamond Cut - 1185 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073819972",
+   "titel": "Volvo EX90 5-Y Spoke Glossy Black Diamond Cut, Forged 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073852740",
+   "titel": "Volvo EX90 5-Spoke Glossy Black/ Glossy White Diamond Cut 22″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073885508",
+   "titel": "Volvo EX90 5-Spoke Glossy Silver/ Glossy Black 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753073918276",
+   "titel": "Volvo EX90 8-Spoke Glossy Black Diamond Cut 21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753074049348",
+   "titel": "Porsche 20/21\" 911 GT3 Magnesium Lightweight Forged Wheel Set (992.2) 20/21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753074082116",
+   "titel": "Porsche 20/21\" 911 GT3 Wheel Set (992.2) 20/21″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753074147652",
+   "titel": "Lexus TX satin sort 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753074180420",
+   "titel": "Peugeot Yanaka 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753074213188",
+   "titel": "Peugeot Camden 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753074245956",
+   "titel": "Peugeot Graphite 19″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753074278724",
+   "titel": "Peugeot Salamanca 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753074311492",
+   "titel": "Peugeot Monolithe 20″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753074344260",
+   "titel": "Peugeot Karakkoy 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753074377028",
+   "titel": "Peugeot Bund 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753074409796",
+   "titel": "Peugeot Evissa 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753074442564",
+   "titel": "Peugeot Chicago 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753074508100",
+   "titel": "Peugeot Los Angeles 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753074540868",
+   "titel": "Peugeot Sperone 18″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  },
+  {
+   "product_id": "gid://shopify/Product/15753074573636",
+   "titel": "Peugeot Aoraki 17″ – originale fælge",
+   "old_status": "ACTIVE",
+   "grund": "ingen dokumenteret kilde/pris"
+  }
+ ]
+}
