@@ -1,0 +1,16 @@
+{
+  "note": "Værdier FØR ændring 2026-11-22. Bruges til rollback via productUpdate.",
+  "products": [
+    {"id": "gid://shopify/Product/15722091741508", "title": "Winrun R330 W-Silent 265/35 ZR22 102W XL, EV", "seo_title": "Winrun R330 W-Silent 265/35 ZR22 102W XL, EV | PDParts", "seo_description": "Winrun R330 W-Silent 265/35 ZR22 102W XL, EV. EAN 6939364208286. Sommerdæk. Bestillingsvare. Pris pr. dæk, ekskl. fragt og montering. Se dækket hos PDParts."},
+    {"id": "gid://shopify/Product/15722091905348", "title": "Winrun R330 W-Silent 265/35 ZR22 102W XL, EV", "seo_title": "Winrun R330 W-Silent 265/35 ZR22 102W XL, EV | PDParts", "seo_description": "Winrun R330 W-Silent 265/35 ZR22 102W XL, EV. EAN 6939364211675. Sommerdæk. Bestillingsvare. Pris pr. dæk, ekskl. fragt og montering. Se dækket hos PDParts."},
+    {"id": "gid://shopify/Product/15722085941572", "seo_title": "Rotalla Setula S-Race RS01+ 245/35 ZR21 96Y XL MFS | PDParts"},
+    {"id": "gid://shopify/Product/15722085974340", "seo_title": "Rotalla Setula S-Race RS01+ 275/40 ZR21 107Y XL MFS | PDParts"},
+    {"id": "gid://shopify/Product/15722086007108", "seo_title": "Rotalla Setula S-Race RS01+ 295/40 ZR21 111Y XL MFS | PDParts"},
+    {"id": "gid://shopify/Product/15722086039876", "seo_title": "Rotalla Setula S-Race RS01+ 315/40 ZR21 115Y XL MFS | PDParts"},
+    {"id": "gid://shopify/Product/15722086072644", "seo_title": "Rotalla Setula S-Race RS01+ 275/45 ZR21 110Y XL MFS | PDParts"},
+    {"id": "gid://shopify/Product/15722086105412", "seo_title": "Rotalla Setula S-Race RS01+ 245/40 ZR21 100Y XL MFS | PDParts"},
+    {"id": "gid://shopify/Product/15722086138180", "seo_title": "Rotalla Setula S-Race RS01+ 285/45 ZR21 113Y XL MFS | PDParts"},
+    {"id": "gid://shopify/Product/15722091086148", "seo_title": "Rotalla Setula S-Race RS01+ 285/35 ZR22 106Y XL MFS | PDParts"},
+    {"id": "gid://shopify/Product/15722091118916", "seo_title": "Rotalla Setula S-Race RS01+ 315/35 ZR22 111Y XL MFS | PDParts"}
+  ]
+}
