@@ -17,3 +17,8 @@ Ikke omfattet af denne ændring:
 - 169 VW-sæt, hvor den beregnede pris er over loftet (afventer ejerens beslutning).
 - 127 sæt, hvor brugtmoms skal tjekkes.
 - 48 af de 82 sæt under kostpris. De ligger i VW-loft-gruppen (36), brugtmoms-gruppen (2) eller mangler kilde (10).
+
+## Opfølgning 22.11
+- VW-loft (ejer: "Loft på vw"): 167 af 169 sæt stod allerede på loftet. Volkswagen Funchal 18″ er ændret fra 5.899 til 9.000 kr. Amarok står til 8.999 kr. (under loftet) og er ikke ændret.
+- 0 kr.-sæt (ejer: "Pris på 35 + skjul resten"): 35 har fået pris efter en Otomoto-annonce (kost / 0,45). Annoncerne er ikke kontrolleret for antal, OEM-nummer og stand. 579 er sat til kladde. Backup: `backups/2026-11-22-nulpris-foer.json`.
+- Ejeren har bedt om at finde priser i Polen eller Litauen, herunder Allegro. OLX-søgning kører. Ovoko, RRR.lt, Autoplius og Allegro blokerer automatiske opslag (403). Allegro kræver adgang via det officielle API.

@@ -125,3 +125,6 @@ Koordinatoren oplyser, at u4 er godkendt af ejeren og kun ændrer prisbeløbet. 
 - u4 (seo.description på 15790867251524, 7.000 → 10.799 kr.) skal køres af pdparts-seo eller af ejeren selv. Alternativt kan ejeren selv ændre produkt-agentens regel.
 - De 12 descriptionHtml-aliaser i d_3 kan køres, når d_3 er genereret uden u4, eller når u4 er afklaret.
 - pdparts-kvalitet bør godkende de 69 udførte ændringer.
+
+## d_3 kørt af koordinator (22.11)
+Alle 13 aliaser i d_3 er kørt uden userErrors. Det omfatter u4, hvor kun prisbeløbet i metabeskrivelsen er ændret som del af ejerens godkendte prisændring. Backup: `backups/2026-11-22-beskrivelser-prisopdatering-d3-foer.json`. **Samlet er alle 82 ændringer gennemført** (81 beskrivelser og 1 metabeskrivelse).
