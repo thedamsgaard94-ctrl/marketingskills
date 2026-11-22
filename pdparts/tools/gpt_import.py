@@ -1,14 +1,21 @@
-import csv,json,glob,math,sys
+import csv,json,glob,math,sys,re
 P={}
 for f in glob.glob('wheels/page*.json'):
     for p in json.load(open(f))['data']['products']['nodes']: P[p['id'].split('/')[-1]]=p
 rows=[];skip=[]
 for r in csv.DictReader(open(sys.argv[1],encoding='utf-8-sig'),delimiter=';'):
     if r['fundet']!='JA': continue
-    if r['antal_faelge']!='4' or r['valuta']!='PLN' or r['land'] not in('PL','LT'): skip.append((r['nr'],r['antal_faelge'])); continue
+    if r['valuta']!='PLN' or r['land'] not in('PL','LT'): skip.append((r['nr'],'valuta/land')); continue
+    mult=1
+    if r['antal_faelge']!='4':
+        # Ejer 22.11: enkeltfælge OK hvis 4 kan skaffes: webshop/forhandler med lager>=4 eller kan bestille (ikke markedsplads)
+        stock=int(r.get('lager_antal') or 0) if (r.get('lager_antal') or '').isdigit() else 0
+        market=re.search(r'allegro\.pl|olx\.pl|otomoto\.pl|ovoko|rrr\.lt|autoplius|skelbiu',r['annonce_url'])
+        if r['antal_faelge']=='1' and (stock>=4 or (not market and r['saelger_type']=='firma' and r['stand']=='ny')): mult=4
+        else: skip.append((r['nr'],r['antal_faelge'])); continue
     p=P[r['product_id']]; v=p['variants']['nodes']
     if len(v)!=1: skip.append((r['nr'],'varianter')); continue
-    cost=float(r['pris'])/0.589*1.02+150+(400 if r['med_daek']=='JA' else 0)
+    cost=float(r['pris'])*mult/0.589*1.02+150+(400 if r['med_daek']=='JA' else 0)
     raw=cost/0.45; pr=int(math.ceil((raw+1)/100)*100-1)
     if pr-100>=raw: pr-=100
     rows.append(dict(nr=r['nr'],product_id='gid://shopify/Product/'+r['product_id'],variant_id=v[0]['id'],titel=p['title'],pris_pln=r['pris'],kost=round(cost),ny_pris=pr,url=r['annonce_url']))

@@ -20,14 +20,14 @@ Brug linkene i kolonnerne `allegro_soeg` og `olx_soeg` som udgangspunkt. Søg og
 5. Notér **stand**: ny / brugt / renoveret.
 6. Notér om sælger er **firma** eller **privat**, hvis det fremgår.
 7. Brug kun annoncer, du **faktisk har set**, med et **direkte link**. Gæt aldrig en pris, og opfind aldrig et link.
-8. Find gerne det **billigste kvalificerede sæt med 4 stk.**. Findes det ikke, så den billigste enkeltfælg.
+8. Find gerne det **billigste kvalificerede sæt med 4 stk.**. Findes det ikke, så en **enkeltfælg, hvor man kan få 4 ens**: en webshop eller forhandler med mindst 4 på lager, eller en autoriseret forhandler af nye originaldele. Skriv lagerantallet i `lager_antal`.
 
 **Arbejd i portioner:** tag 25 rækker ad gangen (start med række 1–25), og fortsæt, når jeg skriver "næste".
 
 **Svar KUN med en tabel i dette CSV-format** (semikolon som separator, én linje pr. række, også når der ikke er fundet noget):
 
 ```
-nr;product_id;oem;fundet;annonce_url;annonce_titel;pris;valuta;antal_faelge;med_daek;stand;saelger_type;land;bemaerkning
+nr;product_id;oem;fundet;annonce_url;annonce_titel;pris;valuta;antal_faelge;med_daek;stand;saelger_type;land;bemaerkning;lager_antal
 ```
 
 - `fundet` = JA eller NEJ
@@ -38,6 +38,7 @@ nr;product_id;oem;fundet;annonce_url;annonce_titel;pris;valuta;antal_faelge;med_
 - `stand` = ny, brugt eller renoveret
 - `saelger_type` = firma, privat eller ukendt
 - `land` = PL eller LT
+- `lager_antal` = antal på lager, hvis det fremgår (fx 4), ellers tomt
 - `bemaerkning` = kort note, fx "OEM-nummer set på foto" eller "kun designnavn matcher"
 
 Ved NEJ: udfyld kun `nr;product_id;oem;NEJ` og lad resten være tomt.
