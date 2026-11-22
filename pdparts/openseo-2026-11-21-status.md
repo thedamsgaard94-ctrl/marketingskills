@@ -6,12 +6,12 @@ Statusser: KONTROLLERET · FORESLÅET · ÆNDRET (skrevet i Shopify) · UDGIVET 
 
 | Fund | URL / produkt | Status | Dokumentation |
 |---|---|---|---|
-| duplicate-title | winrun-r330-w-silent-275-35-r21-6939364208194 / -6939364210975 | ÆNDRET (før 22.11, ikke i denne session) | To forskellige EAN'er og producentnumre (SW63421 og ESW63421) betyder to forskellige varer. Titlerne er nu unikke, så der er ikke behov for canonical. Ved gennemgangen 22.11 havde begge allerede unikke titler |
-| duplicate-title (samme mønster, ikke i stikprøven) | Winrun 265/35 ZR22 102W: Product 15722091741508 / 15722091905348 | ÆNDRET 22.11 | SW52722 / ESW52722, to EAN'er. Titel og SEO-titel er gjort unikke |
-| title-too-long ×6 (+3 udenfor stikprøven) | 9 Rotalla Setula S-Race RS01+ | ÆNDRET 22.11 | SEO-titlen er forkortet fra 59–63 til 50–54 tegn. Størrelse, belastningsindeks, hastighedsindeks, XL og MFS er bevaret. Backup: `backups/2026-11-22-seo-titler-foer.json` |
-| crawl-page-limit | 1.188 URL'er | IKKE KONTROLLERET | Ny crawl er blokeret: pdparts.dk er ikke tilladt i dette miljøs netværk, og der er ingen OpenSEO-forbindelse. Se planen herunder |
+| duplicate-title | winrun-r330-w-silent-275-35-r21-6939364208194 / -6939364210975 | UDGIVET (verificeret på pdparts.dk 22.11) | To forskellige EAN'er og producentnumre (SW63421 og ESW63421) betyder to forskellige varer. Titlerne er nu unikke, så der er ikke behov for canonical. Ved gennemgangen 22.11 havde begge allerede unikke titler |
+| duplicate-title (samme mønster, ikke i stikprøven) | Winrun 265/35 ZR22 102W: Product 15722091741508 / 15722091905348 | UDGIVET (verificeret på pdparts.dk 22.11) | SW52722 / ESW52722, to EAN'er. Titel og SEO-titel er gjort unikke |
+| title-too-long ×6 (+3 udenfor stikprøven) | 9 Rotalla Setula S-Race RS01+ | UDGIVET (verificeret på pdparts.dk 22.11) | SEO-titlen er forkortet fra 59–63 til 50–54 tegn. Størrelse, belastningsindeks, hastighedsindeks, XL og MFS er bevaret. Backup: `backups/2026-11-22-seo-titler-foer.json` |
+| crawl-page-limit | 1.188 URL'er | DELVIST KONTROLLERET | Segment 1 er crawlet 22.11: 562 kollektioner og 2.063 aktive fælgsider, alle med HTTP 200. Resultat pr. URL: `crawl-segment1-2026-11-22.csv`. Dæk, sider og blogs mangler (segment 3–4) |
 
-Ingen af ændringerne har status UDGIVET, før en ny crawl har bekræftet dem på de offentlige sider.
+De to Audi-fælgsider, hvor leverandørformuleringen er fjernet, er også verificeret live.
 
 ## Plan for segmenteret crawl (1.188 URL'er)
 
@@ -28,3 +28,24 @@ Allerede kendt fra Shopify-data for de 2.063 aktive fælgprodukter:
 - **614 er aktive til 0 kr.** De fleste er katalogsider ("… – originale fælge") uden billeder. De bør gennemgås for tyndt indhold og eventuelt noindex, eller skjules.
 - 883 har færre end 2 billeder.
 - 565 mangler et OEM-nummer i tags.
+
+## Resultat, segment 1 (crawl 22.11.2026, 2.625 URL'er)
+
+| Kontrol | Kollektioner (562) | Fælgprodukter (2.063) |
+|---|---|---|
+| HTTP 200 / redirects / noindex | 562 / 0 / 0 | 2.063 / 0 / 0 |
+| Canonical = egen URL | alle | alle |
+| Præcis én H1 | alle | alle |
+| Title over 60 tegn | 0 | **1.006** |
+| Title under 25 tegn | 27 | 0 |
+| Dublet-titler | 0 | 10 sider (4 grupper, Mercedes-katalog og Audi 5-V-spoke 17″) |
+| Dublet-metabeskrivelser | 8 | **311** |
+| Sider med billeder uden alt-tekst | 0 | **1.180** |
+| Structured data | BreadcrumbList | BreadcrumbList på alle. Product/ProductGroup på 629, nemlig de sider med pris (efter temaets regel) |
+| Median svartid | 348 ms | 361 ms |
+
+**Prioritet for SEO-agenten:**
+1. Kort de 1.006 lange produkttitler ned til højst 60 tegn ved at sætte en SEO-titel. Mærke, tommer og OEM-nummer skal bevares.
+2. Gør de 311 dublet-metabeskrivelser unikke ved at tilføje OEM-nummer, mål og stand.
+3. Tilføj alt-tekst på produktbillederne på 1.180 sider. Det kan løses i temaet med produkttitel som standard-alt.
+4. Gør de 10 dublet-titler unikke.
