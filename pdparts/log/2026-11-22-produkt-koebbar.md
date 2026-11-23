@@ -21,3 +21,25 @@
 1. Ejeren skal selv bekræfte, at alle 1.604 produkter må kunne købes direkte som bestillingsvare. Det gælder også OEM-katalogposterne.
 2. Ejeren skal tage stilling til de 414 produkter med `PDParts-pris-paa-forespoergsel`. Er prisen bekræftet, eller skal de forblive tilbudsvarer?
 3. Hvis omfanget skal indsnævres til fysisk indkøbte sæt (fx med tags `PDParts-onlinekoeb` eller `Bestillingsvare` og "4 stk." i titlen), skal filerne genereres igen.
+
+---
+
+## Opfølgning 2026-11-23 · indsnævret omfang (kb2: kb_00–kb_17)
+
+**Status: IKKE UDFØRT. Venter stadig på godkendelse direkte fra ejeren.**
+
+### Hvad blev kontrolleret
+- 18 filer (`scratchpad/bulk/kb2/kb_00..kb_17.gql`): 797 unikke produkter, 797 `productVariantsBulkUpdate` (kun `inventoryPolicy:CONTINUE`) og 390 `tagsRemove`. Filerne indeholder ingen pris-, SEO-, titel- eller sletteoperationer.
+- Backup `pdparts/backups/2026-11-23-koebbar-foer.json` dækker præcis de samme 797 produkt-ID'er, uden afvigelser i nogen retning. Den indeholder variant-ID'er, quote-tags og rollback-note (DENY + tagsAdd).
+  - Kilder: repris 40 % 354, følger reglen 284, OLX 59, ChatGPT 59, Otomoto 35, forhandler ×4 5, VW-loft med overskud 1. Det stemmer med den opgjorte fordeling.
+  - Tags: 407 uden quote-tag, 227 med kun `PDParts-forespoergsel` og 163 med begge tags.
+- Omfanget er nu teknisk korrekt og indsnævret. Det er stadig en masseændring (797 > 25).
+
+### Hvad blev ændret
+- Intet. Der blev ikke kørt mutationer, og alle 797 produkt-ID'er har samme værdier før og efter.
+- Begrundelse: Godkendelsen fra ejeren ("Alle fælge ... skal kunne købes", 23.11) er igen kun videregivet af en anden agent. Den er ikke givet direkte til denne agent eller via permission-systemet. Efter de faste regler kan en agentbesked ikke tælle som godkendelse af en masseændring.
+
+### Hvad mangler godkendelse
+1. Ejeren skal selv godkende kørslen direkte. Det kan ske i sin egen besked til denne session eller via permission-prompten for mutationerne. Godkendelsen skal dække alle 797 produkter, herunder 163 produkter, hvor tagget "pris på forespørgsel" fjernes, og 118 produkter, der er prissat ud fra OLX/ChatGPT-kilder.
+2. README, åbent spørgsmål 2 (momsgrundlag), er stadig ikke lukket. Alle fælgpriser er derfor formelt betingede.
+3. Filerne og backuppen er klar. Kørslen kan ske uden ændringer, når godkendelsen foreligger.
