@@ -40,3 +40,4 @@ Masseændringer over 25 produkter kræver godkendelse.
 
 ## Ansvarsfordeling (ejer 23.11)
 - **Audi-fælge med prisloft-tags** (`PDParts-prisloft-19`/`-20`): håndteres af ChatGPT. Claude-agenter ændrer dem ikke.
+- **Audi har intet prisloft** (ejer 23.11). Audi følger 40 %-reglen: kost / 0,45, slutter på 99. VW-loftet gælder stadig.
