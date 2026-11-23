@@ -37,3 +37,6 @@ Masseændringer over 25 produkter kræver godkendelse.
 1. **Prisgrundlag:** Afklaret 22.11, se de faste produktregler.
 2. **Momsgrundlag:** Ingen fælgsæt har en dokumenteret faktura eller momsordning. Alle prisforslag er derfor betingede. Se `faelge-aendringsliste-2026-11-22.xlsx`.
 3. **Audi-loft:** Der ligger en registreret Audi-loftregel fra 16.11 (`pdparts_internal.audi_price_cap_20261116`). Skal den gælde fremover?
+
+## Ansvarsfordeling (ejer 23.11)
+- **Audi-fælge med prisloft-tags** (`PDParts-prisloft-19`/`-20`): håndteres af ChatGPT. Claude-agenter ændrer dem ikke.
